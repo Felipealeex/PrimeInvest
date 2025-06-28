@@ -1,0 +1,117 @@
+[13-Mar-2025 11:24:17 America/Fortaleza] PHP Warning:  include(../../conexao/conexao.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/DashCliente/index.php on line 3
+[13-Mar-2025 11:24:17 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/DashCliente/index.php on line 3
+[13-Mar-2025 11:24:17 America/Fortaleza] PHP Warning:  include(../../conexao/criptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/DashCliente/index.php on line 4
+[13-Mar-2025 11:24:17 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/criptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/DashCliente/index.php on line 4
+[13-Mar-2025 11:24:17 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/club1409/public_html/DashCliente/index.php on line 16
+[13-Mar-2025 11:24:17 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/club1409/public_html/DashCliente/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/club1409/public_html/DashCliente/index.php on line 16
+[13-Mar-2025 11:24:30 America/Fortaleza] PHP Warning:  include(../../conexao/conexao.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/DashCliente/index.php on line 3
+[13-Mar-2025 11:24:30 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/DashCliente/index.php on line 3
+[13-Mar-2025 11:24:30 America/Fortaleza] PHP Warning:  include(../../conexao/criptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/DashCliente/index.php on line 4
+[13-Mar-2025 11:24:30 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/criptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/DashCliente/index.php on line 4
+[13-Mar-2025 11:24:30 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/club1409/public_html/DashCliente/index.php on line 16
+[13-Mar-2025 11:24:30 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/club1409/public_html/DashCliente/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/club1409/public_html/DashCliente/index.php on line 16
+[13-Mar-2025 11:25:38 America/Fortaleza] PHP Warning:  include(../../conexao/conexao.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/DashCliente/index.php on line 3
+[13-Mar-2025 11:25:38 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/DashCliente/index.php on line 3
+[13-Mar-2025 11:25:38 America/Fortaleza] PHP Warning:  include(../../conexao/criptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/DashCliente/index.php on line 4
+[13-Mar-2025 11:25:38 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/criptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/DashCliente/index.php on line 4
+[13-Mar-2025 11:25:38 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/club1409/public_html/DashCliente/index.php on line 16
+[13-Mar-2025 11:25:38 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/club1409/public_html/DashCliente/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/club1409/public_html/DashCliente/index.php on line 16
+[13-Mar-2025 11:25:48 America/Fortaleza] PHP Warning:  include(../../conexao/conexao.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/DashCliente/index.php on line 3
+[13-Mar-2025 11:25:48 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/DashCliente/index.php on line 3
+[13-Mar-2025 11:25:48 America/Fortaleza] PHP Warning:  include(../../conexao/criptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/DashCliente/index.php on line 4
+[13-Mar-2025 11:25:48 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/criptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/DashCliente/index.php on line 4
+[13-Mar-2025 11:25:48 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/club1409/public_html/DashCliente/index.php on line 16
+[13-Mar-2025 11:25:48 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/club1409/public_html/DashCliente/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/club1409/public_html/DashCliente/index.php on line 16
+[13-Mar-2025 11:27:28 America/Fortaleza] PHP Warning:  include(../../conexao/conexao.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/DashCliente/index.php on line 3
+[13-Mar-2025 11:27:28 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/DashCliente/index.php on line 3
+[13-Mar-2025 11:27:28 America/Fortaleza] PHP Warning:  include(../../conexao/criptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/DashCliente/index.php on line 4
+[13-Mar-2025 11:27:28 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/criptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/DashCliente/index.php on line 4
+[13-Mar-2025 11:27:28 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/club1409/public_html/DashCliente/index.php on line 16
+[13-Mar-2025 11:27:28 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/club1409/public_html/DashCliente/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/club1409/public_html/DashCliente/index.php on line 16
+[13-Mar-2025 11:27:47 America/Fortaleza] PHP Warning:  include(../../conexao/conexao.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/DashCliente/index.php on line 3
+[13-Mar-2025 11:27:47 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/DashCliente/index.php on line 3
+[13-Mar-2025 11:27:47 America/Fortaleza] PHP Warning:  include(../../conexao/criptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/DashCliente/index.php on line 4
+[13-Mar-2025 11:27:47 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/criptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/DashCliente/index.php on line 4
+[13-Mar-2025 11:27:47 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/club1409/public_html/DashCliente/index.php on line 16
+[13-Mar-2025 11:27:47 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/club1409/public_html/DashCliente/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/club1409/public_html/DashCliente/index.php on line 16
+[13-Mar-2025 13:17:54 America/Fortaleza] PHP Warning:  include(../../conexao/conexao.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/DashCliente/index.php on line 3
+[13-Mar-2025 13:17:54 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/DashCliente/index.php on line 3
+[13-Mar-2025 13:17:54 America/Fortaleza] PHP Warning:  include(../../conexao/criptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/DashCliente/index.php on line 4
+[13-Mar-2025 13:17:54 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/criptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/DashCliente/index.php on line 4
+[13-Mar-2025 13:17:54 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/club1409/public_html/DashCliente/index.php on line 16
+[13-Mar-2025 13:17:54 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/club1409/public_html/DashCliente/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/club1409/public_html/DashCliente/index.php on line 16
+[13-Mar-2025 13:17:58 America/Fortaleza] PHP Warning:  include(../../conexao/conexao.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/DashCliente/index.php on line 3
+[13-Mar-2025 13:17:58 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/DashCliente/index.php on line 3
+[13-Mar-2025 13:17:58 America/Fortaleza] PHP Warning:  include(../../conexao/criptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/DashCliente/index.php on line 4
+[13-Mar-2025 13:17:58 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/criptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/DashCliente/index.php on line 4
+[13-Mar-2025 13:17:58 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/club1409/public_html/DashCliente/index.php on line 16
+[13-Mar-2025 13:17:58 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/club1409/public_html/DashCliente/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/club1409/public_html/DashCliente/index.php on line 16
+[13-Mar-2025 13:18:00 America/Fortaleza] PHP Warning:  include(../../conexao/conexao.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/DashCliente/index.php on line 3
+[13-Mar-2025 13:18:00 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/DashCliente/index.php on line 3
+[13-Mar-2025 13:18:00 America/Fortaleza] PHP Warning:  include(../../conexao/criptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/DashCliente/index.php on line 4
+[13-Mar-2025 13:18:00 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/criptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/DashCliente/index.php on line 4
+[13-Mar-2025 13:18:00 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/club1409/public_html/DashCliente/index.php on line 16
+[13-Mar-2025 13:18:00 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/club1409/public_html/DashCliente/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/club1409/public_html/DashCliente/index.php on line 16
+[13-Mar-2025 13:18:14 America/Fortaleza] PHP Warning:  include(../../conexao/conexao.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/DashCliente/index.php on line 3
+[13-Mar-2025 13:18:14 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/DashCliente/index.php on line 3
+[13-Mar-2025 13:18:14 America/Fortaleza] PHP Warning:  include(../../conexao/criptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/DashCliente/index.php on line 4
+[13-Mar-2025 13:18:14 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/criptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/DashCliente/index.php on line 4
+[13-Mar-2025 13:18:14 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/club1409/public_html/DashCliente/index.php on line 16
+[13-Mar-2025 13:18:14 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/club1409/public_html/DashCliente/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/club1409/public_html/DashCliente/index.php on line 16
+[13-Mar-2025 13:18:15 America/Fortaleza] PHP Warning:  include(../../conexao/conexao.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/DashCliente/index.php on line 3
+[13-Mar-2025 13:18:15 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/DashCliente/index.php on line 3
+[13-Mar-2025 13:18:15 America/Fortaleza] PHP Warning:  include(../../conexao/criptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/DashCliente/index.php on line 4
+[13-Mar-2025 13:18:15 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/criptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/DashCliente/index.php on line 4
+[13-Mar-2025 13:18:15 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/club1409/public_html/DashCliente/index.php on line 16
+[13-Mar-2025 13:18:15 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/club1409/public_html/DashCliente/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/club1409/public_html/DashCliente/index.php on line 16
+[13-Mar-2025 13:18:20 America/Fortaleza] PHP Warning:  include(../../conexao/conexao.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/DashCliente/index.php on line 3
+[13-Mar-2025 13:18:20 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/DashCliente/index.php on line 3
+[13-Mar-2025 13:18:20 America/Fortaleza] PHP Warning:  include(../../conexao/criptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/DashCliente/index.php on line 4
+[13-Mar-2025 13:18:20 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/criptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/DashCliente/index.php on line 4
+[13-Mar-2025 13:18:20 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/club1409/public_html/DashCliente/index.php on line 16
+[13-Mar-2025 13:18:20 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/club1409/public_html/DashCliente/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/club1409/public_html/DashCliente/index.php on line 16
+[13-Mar-2025 13:19:17 America/Fortaleza] PHP Warning:  include(../../conexao/conexao.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/DashCliente/index.php on line 3
+[13-Mar-2025 13:19:17 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/DashCliente/index.php on line 3
+[13-Mar-2025 13:19:17 America/Fortaleza] PHP Warning:  include(../../conexao/criptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/DashCliente/index.php on line 4
+[13-Mar-2025 13:19:17 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/criptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/DashCliente/index.php on line 4
+[13-Mar-2025 13:19:17 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/club1409/public_html/DashCliente/index.php on line 16
+[13-Mar-2025 13:19:17 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/club1409/public_html/DashCliente/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/club1409/public_html/DashCliente/index.php on line 16

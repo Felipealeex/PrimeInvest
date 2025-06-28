@@ -1,0 +1,337 @@
+
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: black;
+            color: #333;
+        }
+        
+        header {
+            background-color: rgb(0, 0, 0);
+            color: white;
+            padding: 20px 40px; 
+            display: flex;
+            justify-content: space-between; 
+            align-items: center;
+        }
+        
+        header .left-section a {
+            color: white;
+            margin-right: 20px;
+            text-decoration: none;
+            font-size: 16px;
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+        
+        header .left-section a:hover {
+            color: #ff9900; 
+        }
+        
+        header .right-section {
+            display: flex;
+            gap: 15px;
+       
+        }
+        
+        header .right-section button {
+            background-color: transparent;
+            color: white;
+            border: 2px solid #ff9900;
+            padding: 12px 24px;
+            font-size: 14px;
+            cursor: pointer;
+            border-radius: 5px;
+            transition: all 0.3s ease;
+        }
+        
+        header .right-section button:hover {
+            background-color: rgb(20, 56, 21);
+            color: white;
+            transform: scale(1.1); 
+        }
+        
+        header .right-section button.transparent {
+            border-color:rgb(255, 255, 255);
+            color:rgb(255, 255, 255);
+        }
+        
+        header .right-section button.transparent:hover {
+            background-color:rgb(255, 255, 255);
+            color: black;
+        }
+        
+        header .right-section button.normal:hover {
+            background-color:#ff9900; 
+        }
+        
+        .fade-in-element {
+            opacity: 0;
+            transform: translateY(20px); 
+            transition: opacity 0.6s ease-out, transform 0.6s ease-out; 
+        }
+
+        .fade-in-element.visible {
+            opacity: 1;
+            transform: translateY(0); 
+        }
+        .photo-section {
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+            height: 60vh;
+        }
+        .video-background {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+            object-fit: cover; 
+        }
+        .box-container {
+            display: flex;
+            justify-content: space-between;
+            position: relative;
+            z-index: 1;
+            margin-right: 50px;
+        }
+        .photo-section .box-container {
+            position: absolute;
+            top: 50%;
+            right: 20px; 
+            transform: translateY(-50%);
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+        .box {
+            background-color: rgba(0, 0, 0, 0.5); 
+            padding: 20px;
+            width: 45%;
+            color: #fff;
+            border-radius: 8px;
+        }
+        button {
+            position: relative;
+            z-index: 1;
+            background-color: #ffbc00; 
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 2s ease;
+        }
+        .photo-section .box-container .box {
+            background-color: rgba(53, 53, 53, 0.47);
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            width: 250px;
+            text-align: center;
+            color: rgb(20, 56, 21);
+        }
+        
+        .photo-section .box-container .box p {
+            font-size: 14px;
+            margin-bottom: 15px;
+            color: #ffbc00;
+            line-height: 1.5;
+        }
+        
+        .photo-section .box-container .box .access-link {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            font-size: 14px;
+            color: #ff9900;
+            text-decoration: underline;
+            cursor: pointer;
+            transition: color 0.3s ease;
+        }
+        
+        .photo-section .box-container .box .access-link i {
+            margin-left: 8px;
+            font-size: 16px;
+        }
+        
+        .photo-section .box-container .box .access-link:hover {
+            color:  #ffbc00;
+        }
+        
+        .photo-section .box-container .box .access-link i:before {
+            content: "→";
+        }
+        .photo-section button {
+            position: absolute;
+            left: 40px;
+            top: 50%;
+            transform: translateY(-50%);
+            background-color:  #ff9900;
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 5px;
+            font-weight: bold;
+            transition: all 0.3s ease;
+        }
+        
+        .photo-section button:hover {
+            background-color:#ffbc00;
+        }
+        
+        .content-section {
+            padding: 40px;
+            background-color: black;
+        }
+        
+        .content-section h2 {
+            color:rgb(255, 255, 255);
+            margin-bottom: 20px;
+        }
+        .content-container {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr); 
+            grid-gap: 20px; 
+            justify-items: center; 
+            max-width: 1200px; 
+            margin: 0 auto; 
+            padding: 0 20px;
+        }
+        
+        
+        .content-box {
+            color: white;
+            width: 50vh;
+            height: 30vh;
+            padding: 20px;
+            background-color: rgb(12, 12, 12);
+            text-align: center;
+            border-radius: 5px;
+        }
+        
+        .content-box button {
+            background-color:   #ffbc00;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 14px;
+            cursor: pointer;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+        .promo-section {
+            padding: 40px;
+            background-color: white;
+            text-align: center;
+        }
+        
+        .promo-container {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 20px; 
+            justify-content: center;
+        }
+        
+        .promo-box {
+            padding: 20px;
+            background-color: rgb(231, 231, 231);
+            text-align: left;
+            border-radius: 5px;
+        }
+        
+        .promo-box h3 {
+            color: rgb(0, 0, 0);
+            text-align: center;
+        }
+        
+        .promo-box ul {
+            list-style: none;
+            padding: 0;
+        }
+        
+        .promo-box li {
+            font-size: 14px;
+            margin: 5px 0;
+        }
+        
+        .promo-box button {
+            display: block;
+            width: 100%;
+            background-color: #ff9900;
+            color: white;
+            border: none;
+            padding: 10px;
+            font-size: 14px;
+            cursor: pointer;
+            border-radius: 5px; 
+            margin-top: 10px;
+        }
+/* Estilo da seção FAQ */
+.faq-section {
+    padding: 60px 20px;
+    background-color:rgb(34, 34, 34); /* Cor mais elegante que mistura com o footer */
+    color: white;
+    text-align: center;
+    margin-bottom: 0; /* Remove qualquer margem abaixo da seção FAQ */
+}
+
+.faq-container {
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: left;
+    background-color:rgb(24, 24, 24); /* Cor de fundo harmoniosa */
+    padding: 30px;
+    border-radius: 8px;
+}
+
+.faq-item {
+    margin-bottom: 15px;
+}
+
+.faq-question {
+    width: 100%;
+    background-color:rgb(68, 68, 68); /* Tom mais refinado */
+    color: white;
+    border: none;
+    padding: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    text-align: left;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+}
+
+.faq-question:hover {
+    background-color: #ffbc00; /* Cor de hover elegante */
+}
+
+.faq-answer {
+    display: none;
+    padding: 15px;
+    background-color:rgb(37, 37, 37); /* Cor mais clara para a resposta */
+    border-radius: 8px;
+    margin-top: 10px;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    background-color:rgb(0, 0, 0); /* Mesma cor do botão de pergunta */
+    color: white;
+    padding: 20px;
+    font-size: 14px;
+    margin-top: 0; /* Remove a margem acima do footer */
+}
+
+
+                
+        

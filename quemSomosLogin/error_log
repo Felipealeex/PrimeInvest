@@ -1,0 +1,139 @@
+[18-Feb-2025 17:45:30 America/Fortaleza] PHP Warning:  include(../../conexao/conexao.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/quemSomosLogin/index.php on line 3
+[18-Feb-2025 17:45:30 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/quemSomosLogin/index.php on line 3
+[18-Feb-2025 17:45:30 America/Fortaleza] PHP Warning:  include(../../conexao/criptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[18-Feb-2025 17:45:30 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/criptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[18-Feb-2025 17:45:30 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/club1409/public_html/quemSomosLogin/index.php on line 16
+[18-Feb-2025 17:45:30 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/club1409/public_html/quemSomosLogin/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/club1409/public_html/quemSomosLogin/index.php on line 16
+[18-Feb-2025 17:45:31 America/Fortaleza] PHP Warning:  include(../../conexao/conexao.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/quemSomosLogin/index.php on line 3
+[18-Feb-2025 17:45:31 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/quemSomosLogin/index.php on line 3
+[18-Feb-2025 17:45:31 America/Fortaleza] PHP Warning:  include(../../conexao/criptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[18-Feb-2025 17:45:31 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/criptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[18-Feb-2025 17:45:31 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/club1409/public_html/quemSomosLogin/index.php on line 16
+[18-Feb-2025 17:45:31 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/club1409/public_html/quemSomosLogin/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/club1409/public_html/quemSomosLogin/index.php on line 16
+[18-Feb-2025 17:45:33 America/Fortaleza] PHP Warning:  include(../../conexao/conexao.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/quemSomosLogin/index.php on line 3
+[18-Feb-2025 17:45:33 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/quemSomosLogin/index.php on line 3
+[18-Feb-2025 17:45:33 America/Fortaleza] PHP Warning:  include(../../conexao/criptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[18-Feb-2025 17:45:33 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/criptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[18-Feb-2025 17:45:33 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/club1409/public_html/quemSomosLogin/index.php on line 16
+[18-Feb-2025 17:45:33 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/club1409/public_html/quemSomosLogin/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/club1409/public_html/quemSomosLogin/index.php on line 16
+[18-Feb-2025 19:32:08 America/Fortaleza] PHP Warning:  include(../../conexao/conexao.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/quemSomosLogin/index.php on line 3
+[18-Feb-2025 19:32:08 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/quemSomosLogin/index.php on line 3
+[18-Feb-2025 19:32:08 America/Fortaleza] PHP Warning:  include(../../conexao/criptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[18-Feb-2025 19:32:08 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/criptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[18-Feb-2025 19:32:08 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/club1409/public_html/quemSomosLogin/index.php on line 16
+[18-Feb-2025 19:32:08 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/club1409/public_html/quemSomosLogin/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/club1409/public_html/quemSomosLogin/index.php on line 16
+[18-Feb-2025 19:35:39 America/Fortaleza] PHP Warning:  include(../../conexao/conexao.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/quemSomosLogin/index.php on line 3
+[18-Feb-2025 19:35:39 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/quemSomosLogin/index.php on line 3
+[18-Feb-2025 19:35:39 America/Fortaleza] PHP Warning:  include(../../conexao/criptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[18-Feb-2025 19:35:39 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/criptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[18-Feb-2025 19:35:39 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/club1409/public_html/quemSomosLogin/index.php on line 16
+[18-Feb-2025 19:35:39 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/club1409/public_html/quemSomosLogin/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/club1409/public_html/quemSomosLogin/index.php on line 16
+[18-Feb-2025 19:35:41 America/Fortaleza] PHP Warning:  include(../../conexao/conexao.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/quemSomosLogin/index.php on line 3
+[18-Feb-2025 19:35:41 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/quemSomosLogin/index.php on line 3
+[18-Feb-2025 19:35:41 America/Fortaleza] PHP Warning:  include(../../conexao/criptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[18-Feb-2025 19:35:41 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/criptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[18-Feb-2025 19:35:41 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/club1409/public_html/quemSomosLogin/index.php on line 16
+[18-Feb-2025 19:35:41 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/club1409/public_html/quemSomosLogin/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/club1409/public_html/quemSomosLogin/index.php on line 16
+[18-Feb-2025 19:35:45 America/Fortaleza] PHP Warning:  include(../../conexao/conexao.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/quemSomosLogin/index.php on line 3
+[18-Feb-2025 19:35:45 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/quemSomosLogin/index.php on line 3
+[18-Feb-2025 19:35:45 America/Fortaleza] PHP Warning:  include(../../conexao/criptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[18-Feb-2025 19:35:45 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/criptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[18-Feb-2025 19:35:45 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/club1409/public_html/quemSomosLogin/index.php on line 16
+[18-Feb-2025 19:35:45 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/club1409/public_html/quemSomosLogin/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/club1409/public_html/quemSomosLogin/index.php on line 16
+[18-Feb-2025 19:37:20 America/Fortaleza] PHP Warning:  include(../../conexao/conexao.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/quemSomosLogin/index.php on line 3
+[18-Feb-2025 19:37:20 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/quemSomosLogin/index.php on line 3
+[18-Feb-2025 19:37:20 America/Fortaleza] PHP Warning:  include(../../conexao/criptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[18-Feb-2025 19:37:20 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/criptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[18-Feb-2025 19:37:20 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/club1409/public_html/quemSomosLogin/index.php on line 16
+[18-Feb-2025 19:37:20 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/club1409/public_html/quemSomosLogin/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/club1409/public_html/quemSomosLogin/index.php on line 16
+[18-Feb-2025 19:37:23 America/Fortaleza] PHP Warning:  include(../../conexao/conexao.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/quemSomosLogin/index.php on line 3
+[18-Feb-2025 19:37:23 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/quemSomosLogin/index.php on line 3
+[18-Feb-2025 19:37:23 America/Fortaleza] PHP Warning:  include(../../conexao/criptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[18-Feb-2025 19:37:23 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/criptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[18-Feb-2025 19:37:23 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/club1409/public_html/quemSomosLogin/index.php on line 16
+[18-Feb-2025 19:37:23 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/club1409/public_html/quemSomosLogin/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/club1409/public_html/quemSomosLogin/index.php on line 16
+[18-Feb-2025 19:37:24 America/Fortaleza] PHP Warning:  include(../../conexao/conexao.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/quemSomosLogin/index.php on line 3
+[18-Feb-2025 19:37:24 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/quemSomosLogin/index.php on line 3
+[18-Feb-2025 19:37:24 America/Fortaleza] PHP Warning:  include(../../conexao/criptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[18-Feb-2025 19:37:24 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/criptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[18-Feb-2025 19:37:24 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/club1409/public_html/quemSomosLogin/index.php on line 16
+[18-Feb-2025 19:37:24 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/club1409/public_html/quemSomosLogin/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/club1409/public_html/quemSomosLogin/index.php on line 16
+[18-Feb-2025 19:40:36 America/Fortaleza] PHP Warning:  include(../../conexao/conexao.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/quemSomoslogin/index.php on line 3
+[18-Feb-2025 19:40:36 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/quemSomoslogin/index.php on line 3
+[18-Feb-2025 19:40:36 America/Fortaleza] PHP Warning:  include(../../conexao/criptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/quemSomoslogin/index.php on line 4
+[18-Feb-2025 19:40:36 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/criptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/quemSomoslogin/index.php on line 4
+[18-Feb-2025 19:40:36 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/club1409/public_html/quemSomoslogin/index.php on line 16
+[18-Feb-2025 19:40:36 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/club1409/public_html/quemSomoslogin/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/club1409/public_html/quemSomoslogin/index.php on line 16
+[18-Feb-2025 19:40:38 America/Fortaleza] PHP Warning:  include(../../conexao/conexao.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/quemSomoslogin/index.php on line 3
+[18-Feb-2025 19:40:38 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/quemSomoslogin/index.php on line 3
+[18-Feb-2025 19:40:38 America/Fortaleza] PHP Warning:  include(../../conexao/criptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/quemSomoslogin/index.php on line 4
+[18-Feb-2025 19:40:38 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/criptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/quemSomoslogin/index.php on line 4
+[18-Feb-2025 19:40:38 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/club1409/public_html/quemSomoslogin/index.php on line 16
+[18-Feb-2025 19:40:38 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/club1409/public_html/quemSomoslogin/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/club1409/public_html/quemSomoslogin/index.php on line 16
+[18-Feb-2025 19:40:41 America/Fortaleza] PHP Warning:  include(../../conexao/conexao.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/quemSomoslogin/index.php on line 3
+[18-Feb-2025 19:40:41 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/quemSomoslogin/index.php on line 3
+[18-Feb-2025 19:40:41 America/Fortaleza] PHP Warning:  include(../../conexao/criptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/quemSomoslogin/index.php on line 4
+[18-Feb-2025 19:40:41 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/criptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/quemSomoslogin/index.php on line 4
+[18-Feb-2025 19:40:41 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/club1409/public_html/quemSomoslogin/index.php on line 16
+[18-Feb-2025 19:40:41 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/club1409/public_html/quemSomoslogin/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/club1409/public_html/quemSomoslogin/index.php on line 16
+[18-Feb-2025 20:21:30 America/Fortaleza] PHP Warning:  include(../../conexao/criptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[18-Feb-2025 20:21:30 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/criptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[18-Feb-2025 20:22:56 America/Fortaleza] PHP Warning:  include(../../conexao/criptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[18-Feb-2025 20:22:56 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/criptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[18-Feb-2025 20:24:37 America/Fortaleza] PHP Warning:  include(../../conexao/criptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[18-Feb-2025 20:24:37 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/criptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[18-Feb-2025 20:25:14 America/Fortaleza] PHP Warning:  include(../../conexao/criptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[18-Feb-2025 20:25:14 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/criptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[18-Feb-2025 20:25:16 America/Fortaleza] PHP Warning:  include(../../conexao/criptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[18-Feb-2025 20:25:16 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/criptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[18-Feb-2025 22:49:55 America/Fortaleza] PHP Warning:  include(../../conexao/criptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[18-Feb-2025 22:49:55 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/criptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[18-Feb-2025 22:52:05 America/Fortaleza] PHP Warning:  include(../../conexao/criptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[18-Feb-2025 22:52:05 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/criptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[18-Feb-2025 22:53:58 America/Fortaleza] PHP Warning:  include(../../conexao/criptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[18-Feb-2025 22:53:58 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/criptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[18-Feb-2025 22:54:07 America/Fortaleza] PHP Warning:  include(../../conexao/criptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[18-Feb-2025 22:54:07 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/criptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[19-Feb-2025 11:32:32 America/Fortaleza] PHP Warning:  include(../../conexao/criptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[19-Feb-2025 11:32:32 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/criptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[13-Mar-2025 13:17:59 America/Fortaleza] PHP Warning:  include(../../conexao/criptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/quemSomosLogin/index.php on line 4
+[13-Mar-2025 13:17:59 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/criptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/quemSomosLogin/index.php on line 4

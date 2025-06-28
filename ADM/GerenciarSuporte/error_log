@@ -1,0 +1,30 @@
+[12-Mar-2025 22:06:21 America/Fortaleza] PHP Warning:  include(../../conexao/descriptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/ADM/GerenciarSuporte/admin_chat.php on line 4
+[12-Mar-2025 22:06:21 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/descriptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/ADM/GerenciarSuporte/admin_chat.php on line 4
+[12-Mar-2025 22:06:23 America/Fortaleza] PHP Warning:  include(../../conexao/descriptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/ADM/GerenciarSuporte/admin_chat.php on line 4
+[12-Mar-2025 22:06:23 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/descriptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/ADM/GerenciarSuporte/admin_chat.php on line 4
+[12-Mar-2025 22:06:26 America/Fortaleza] PHP Warning:  include(../../conexao/descriptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/ADM/GerenciarSuporte/admin_chat.php on line 4
+[12-Mar-2025 22:06:26 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/descriptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/ADM/GerenciarSuporte/admin_chat.php on line 4
+[12-Mar-2025 22:08:02 America/Fortaleza] PHP Warning:  include(../../conexao/descriptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/ADM/GerenciarSuporte/admin_chat_view.php on line 4
+[12-Mar-2025 22:08:02 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/descriptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/ADM/GerenciarSuporte/admin_chat_view.php on line 4
+[12-Mar-2025 22:08:02 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function descriptografarAES() in /home2/club1409/public_html/ADM/GerenciarSuporte/admin_chat_view.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/club1409/public_html/ADM/GerenciarSuporte/admin_chat_view.php on line 22
+[12-Mar-2025 22:08:07 America/Fortaleza] PHP Warning:  include(../../conexao/descriptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/ADM/GerenciarSuporte/admin_chat_view.php on line 4
+[12-Mar-2025 22:08:07 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/descriptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/ADM/GerenciarSuporte/admin_chat_view.php on line 4
+[12-Mar-2025 22:08:07 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function descriptografarAES() in /home2/club1409/public_html/ADM/GerenciarSuporte/admin_chat_view.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/club1409/public_html/ADM/GerenciarSuporte/admin_chat_view.php on line 22
+[12-Mar-2025 22:08:35 America/Fortaleza] PHP Warning:  include(../../conexao/descriptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/ADM/GerenciarSuporte/admin_chat_view.php on line 4
+[12-Mar-2025 22:08:35 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/descriptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/ADM/GerenciarSuporte/admin_chat_view.php on line 4
+[12-Mar-2025 22:08:35 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function descriptografarAES() in /home2/club1409/public_html/ADM/GerenciarSuporte/admin_chat_view.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/club1409/public_html/ADM/GerenciarSuporte/admin_chat_view.php on line 22
+[12-Mar-2025 22:09:02 America/Fortaleza] PHP Warning:  include(../../conexao/descriptografia.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/ADM/GerenciarSuporte/admin_chat_view.php on line 4
+[12-Mar-2025 22:09:02 America/Fortaleza] PHP Warning:  include(): Failed opening '../../conexao/descriptografia.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/ADM/GerenciarSuporte/admin_chat_view.php on line 4
+[12-Mar-2025 22:09:02 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function descriptografarAES() in /home2/club1409/public_html/ADM/GerenciarSuporte/admin_chat_view.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/club1409/public_html/ADM/GerenciarSuporte/admin_chat_view.php on line 22

@@ -1,0 +1,728 @@
+[19-Feb-2025 00:21:06 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'nMWvspyZKCSE97W67CpU6g==' for key 'unique_cpf' in /home2/club1409/public_html/registro/processa_registro.php:73
+Stack trace:
+#0 /home2/club1409/public_html/registro/processa_registro.php(73): mysqli->query('INSERT INTO usu...')
+#1 {main}
+  thrown in /home2/club1409/public_html/registro/processa_registro.php on line 73
+[19-Feb-2025 00:21:48 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'f@gmail.com' for key 'unique_email' in /home2/club1409/public_html/registro/processa_registro.php:73
+Stack trace:
+#0 /home2/club1409/public_html/registro/processa_registro.php(73): mysqli->query('INSERT INTO usu...')
+#1 {main}
+  thrown in /home2/club1409/public_html/registro/processa_registro.php on line 73
+[19-Feb-2025 00:22:41 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'CR' for key 'unique_usuario' in /home2/club1409/public_html/registro/processa_registro.php:73
+Stack trace:
+#0 /home2/club1409/public_html/registro/processa_registro.php(73): mysqli->query('INSERT INTO usu...')
+#1 {main}
+  thrown in /home2/club1409/public_html/registro/processa_registro.php on line 73
+[19-Feb-2025 00:24:23 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'CR' for key 'unique_usuario' in /home2/club1409/public_html/registro/processa_registro.php:73
+Stack trace:
+#0 /home2/club1409/public_html/registro/processa_registro.php(73): mysqli->query('INSERT INTO usu...')
+#1 {main}
+  thrown in /home2/club1409/public_html/registro/processa_registro.php on line 73
+[20-Feb-2025 01:32:54 America/Fortaleza] PHP Warning:  Undefined array key "nome" in /home2/club1409/public_html/registro/processa_registro.php on line 6
+[20-Feb-2025 01:32:54 America/Fortaleza] PHP Warning:  Undefined array key "nascimento" in /home2/club1409/public_html/registro/processa_registro.php on line 7
+[20-Feb-2025 01:32:54 America/Fortaleza] PHP Warning:  Undefined array key "banco" in /home2/club1409/public_html/registro/processa_registro.php on line 8
+[20-Feb-2025 01:32:54 America/Fortaleza] PHP Warning:  Undefined array key "conta" in /home2/club1409/public_html/registro/processa_registro.php on line 9
+[20-Feb-2025 01:32:54 America/Fortaleza] PHP Warning:  Undefined array key "digito" in /home2/club1409/public_html/registro/processa_registro.php on line 10
+[20-Feb-2025 01:32:54 America/Fortaleza] PHP Warning:  Undefined array key "pix_chave" in /home2/club1409/public_html/registro/processa_registro.php on line 11
+[20-Feb-2025 01:32:54 America/Fortaleza] PHP Warning:  Undefined array key "cpf" in /home2/club1409/public_html/registro/processa_registro.php on line 12
+[20-Feb-2025 01:32:54 America/Fortaleza] PHP Warning:  Undefined array key "rg" in /home2/club1409/public_html/registro/processa_registro.php on line 13
+[20-Feb-2025 01:32:54 America/Fortaleza] PHP Warning:  Undefined array key "nacionalidade" in /home2/club1409/public_html/registro/processa_registro.php on line 14
+[20-Feb-2025 01:32:54 America/Fortaleza] PHP Warning:  Undefined array key "genero" in /home2/club1409/public_html/registro/processa_registro.php on line 15
+[20-Feb-2025 01:32:54 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil" in /home2/club1409/public_html/registro/processa_registro.php on line 16
+[20-Feb-2025 01:32:54 America/Fortaleza] PHP Warning:  Undefined array key "cep" in /home2/club1409/public_html/registro/processa_registro.php on line 17
+[20-Feb-2025 01:32:54 America/Fortaleza] PHP Warning:  Undefined array key "cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 18
+[20-Feb-2025 01:32:54 America/Fortaleza] PHP Warning:  Undefined array key "categoria_cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 19
+[20-Feb-2025 01:32:54 America/Fortaleza] PHP Warning:  Undefined array key "pais" in /home2/club1409/public_html/registro/processa_registro.php on line 20
+[20-Feb-2025 01:32:54 America/Fortaleza] PHP Warning:  Undefined array key "endereco" in /home2/club1409/public_html/registro/processa_registro.php on line 21
+[20-Feb-2025 01:32:54 America/Fortaleza] PHP Warning:  Undefined array key "numero" in /home2/club1409/public_html/registro/processa_registro.php on line 22
+[20-Feb-2025 01:32:54 America/Fortaleza] PHP Warning:  Undefined array key "bairro" in /home2/club1409/public_html/registro/processa_registro.php on line 23
+[20-Feb-2025 01:32:54 America/Fortaleza] PHP Warning:  Undefined array key "complemento" in /home2/club1409/public_html/registro/processa_registro.php on line 24
+[20-Feb-2025 01:32:54 America/Fortaleza] PHP Warning:  Undefined array key "agencia" in /home2/club1409/public_html/registro/processa_registro.php on line 25
+[20-Feb-2025 01:32:54 America/Fortaleza] PHP Warning:  Undefined array key "pix_tipo" in /home2/club1409/public_html/registro/processa_registro.php on line 26
+[20-Feb-2025 01:32:54 America/Fortaleza] PHP Warning:  Undefined array key "email" in /home2/club1409/public_html/registro/processa_registro.php on line 27
+[20-Feb-2025 01:32:54 America/Fortaleza] PHP Warning:  Undefined array key "telefone" in /home2/club1409/public_html/registro/processa_registro.php on line 28
+[20-Feb-2025 01:32:54 America/Fortaleza] PHP Warning:  Undefined array key "usuario" in /home2/club1409/public_html/registro/processa_registro.php on line 29
+[20-Feb-2025 01:32:54 America/Fortaleza] PHP Warning:  Undefined array key "senha" in /home2/club1409/public_html/registro/processa_registro.php on line 30
+[20-Feb-2025 01:32:54 America/Fortaleza] PHP Warning:  Undefined array key "total_investido" in /home2/club1409/public_html/registro/processa_registro.php on line 31
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "nome" in /home2/club1409/public_html/registro/processa_registro.php on line 6
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "nascimento" in /home2/club1409/public_html/registro/processa_registro.php on line 7
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "banco" in /home2/club1409/public_html/registro/processa_registro.php on line 8
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "conta" in /home2/club1409/public_html/registro/processa_registro.php on line 9
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "digito" in /home2/club1409/public_html/registro/processa_registro.php on line 10
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "pix_chave" in /home2/club1409/public_html/registro/processa_registro.php on line 11
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "cpf" in /home2/club1409/public_html/registro/processa_registro.php on line 12
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "rg" in /home2/club1409/public_html/registro/processa_registro.php on line 13
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "nacionalidade" in /home2/club1409/public_html/registro/processa_registro.php on line 14
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "genero" in /home2/club1409/public_html/registro/processa_registro.php on line 15
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil" in /home2/club1409/public_html/registro/processa_registro.php on line 16
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "cep" in /home2/club1409/public_html/registro/processa_registro.php on line 17
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 18
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "categoria_cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 19
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "pais" in /home2/club1409/public_html/registro/processa_registro.php on line 20
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "endereco" in /home2/club1409/public_html/registro/processa_registro.php on line 21
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "numero" in /home2/club1409/public_html/registro/processa_registro.php on line 22
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "bairro" in /home2/club1409/public_html/registro/processa_registro.php on line 23
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "complemento" in /home2/club1409/public_html/registro/processa_registro.php on line 24
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "agencia" in /home2/club1409/public_html/registro/processa_registro.php on line 25
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "pix_tipo" in /home2/club1409/public_html/registro/processa_registro.php on line 26
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "email" in /home2/club1409/public_html/registro/processa_registro.php on line 27
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "telefone" in /home2/club1409/public_html/registro/processa_registro.php on line 28
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "usuario" in /home2/club1409/public_html/registro/processa_registro.php on line 29
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "senha" in /home2/club1409/public_html/registro/processa_registro.php on line 30
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "total_investido" in /home2/club1409/public_html/registro/processa_registro.php on line 31
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'tWvENZu9+ayE9GpAP8ripg==' for key 'unique_cpf' in /home2/club1409/public_html/registro/processa_registro.php:77
+Stack trace:
+#0 /home2/club1409/public_html/registro/processa_registro.php(77): mysqli->query('INSERT INTO usu...')
+#1 {main}
+  thrown in /home2/club1409/public_html/registro/processa_registro.php on line 77
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "nome" in /home2/club1409/public_html/registro/processa_registro.php on line 6
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "nascimento" in /home2/club1409/public_html/registro/processa_registro.php on line 7
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "banco" in /home2/club1409/public_html/registro/processa_registro.php on line 8
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "conta" in /home2/club1409/public_html/registro/processa_registro.php on line 9
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "digito" in /home2/club1409/public_html/registro/processa_registro.php on line 10
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "pix_chave" in /home2/club1409/public_html/registro/processa_registro.php on line 11
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "cpf" in /home2/club1409/public_html/registro/processa_registro.php on line 12
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "rg" in /home2/club1409/public_html/registro/processa_registro.php on line 13
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "nacionalidade" in /home2/club1409/public_html/registro/processa_registro.php on line 14
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "genero" in /home2/club1409/public_html/registro/processa_registro.php on line 15
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil" in /home2/club1409/public_html/registro/processa_registro.php on line 16
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "cep" in /home2/club1409/public_html/registro/processa_registro.php on line 17
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 18
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "categoria_cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 19
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "pais" in /home2/club1409/public_html/registro/processa_registro.php on line 20
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "endereco" in /home2/club1409/public_html/registro/processa_registro.php on line 21
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "numero" in /home2/club1409/public_html/registro/processa_registro.php on line 22
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "bairro" in /home2/club1409/public_html/registro/processa_registro.php on line 23
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "complemento" in /home2/club1409/public_html/registro/processa_registro.php on line 24
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "agencia" in /home2/club1409/public_html/registro/processa_registro.php on line 25
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "pix_tipo" in /home2/club1409/public_html/registro/processa_registro.php on line 26
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "email" in /home2/club1409/public_html/registro/processa_registro.php on line 27
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "telefone" in /home2/club1409/public_html/registro/processa_registro.php on line 28
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "usuario" in /home2/club1409/public_html/registro/processa_registro.php on line 29
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "senha" in /home2/club1409/public_html/registro/processa_registro.php on line 30
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Warning:  Undefined array key "total_investido" in /home2/club1409/public_html/registro/processa_registro.php on line 31
+[21-Feb-2025 01:31:52 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'tWvENZu9+ayE9GpAP8ripg==' for key 'unique_cpf' in /home2/club1409/public_html/registro/processa_registro.php:77
+Stack trace:
+#0 /home2/club1409/public_html/registro/processa_registro.php(77): mysqli->query('INSERT INTO usu...')
+#1 {main}
+  thrown in /home2/club1409/public_html/registro/processa_registro.php on line 77
+[22-Feb-2025 01:35:00 America/Fortaleza] PHP Warning:  Undefined array key "nome" in /home2/club1409/public_html/registro/processa_registro.php on line 6
+[22-Feb-2025 01:35:00 America/Fortaleza] PHP Warning:  Undefined array key "nascimento" in /home2/club1409/public_html/registro/processa_registro.php on line 7
+[22-Feb-2025 01:35:00 America/Fortaleza] PHP Warning:  Undefined array key "banco" in /home2/club1409/public_html/registro/processa_registro.php on line 8
+[22-Feb-2025 01:35:00 America/Fortaleza] PHP Warning:  Undefined array key "conta" in /home2/club1409/public_html/registro/processa_registro.php on line 9
+[22-Feb-2025 01:35:00 America/Fortaleza] PHP Warning:  Undefined array key "digito" in /home2/club1409/public_html/registro/processa_registro.php on line 10
+[22-Feb-2025 01:35:00 America/Fortaleza] PHP Warning:  Undefined array key "pix_chave" in /home2/club1409/public_html/registro/processa_registro.php on line 11
+[22-Feb-2025 01:35:00 America/Fortaleza] PHP Warning:  Undefined array key "cpf" in /home2/club1409/public_html/registro/processa_registro.php on line 12
+[22-Feb-2025 01:35:00 America/Fortaleza] PHP Warning:  Undefined array key "rg" in /home2/club1409/public_html/registro/processa_registro.php on line 13
+[22-Feb-2025 01:35:00 America/Fortaleza] PHP Warning:  Undefined array key "nacionalidade" in /home2/club1409/public_html/registro/processa_registro.php on line 14
+[22-Feb-2025 01:35:00 America/Fortaleza] PHP Warning:  Undefined array key "genero" in /home2/club1409/public_html/registro/processa_registro.php on line 15
+[22-Feb-2025 01:35:00 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil" in /home2/club1409/public_html/registro/processa_registro.php on line 16
+[22-Feb-2025 01:35:00 America/Fortaleza] PHP Warning:  Undefined array key "cep" in /home2/club1409/public_html/registro/processa_registro.php on line 17
+[22-Feb-2025 01:35:00 America/Fortaleza] PHP Warning:  Undefined array key "cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 18
+[22-Feb-2025 01:35:00 America/Fortaleza] PHP Warning:  Undefined array key "categoria_cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 19
+[22-Feb-2025 01:35:00 America/Fortaleza] PHP Warning:  Undefined array key "pais" in /home2/club1409/public_html/registro/processa_registro.php on line 20
+[22-Feb-2025 01:35:00 America/Fortaleza] PHP Warning:  Undefined array key "endereco" in /home2/club1409/public_html/registro/processa_registro.php on line 21
+[22-Feb-2025 01:35:00 America/Fortaleza] PHP Warning:  Undefined array key "numero" in /home2/club1409/public_html/registro/processa_registro.php on line 22
+[22-Feb-2025 01:35:00 America/Fortaleza] PHP Warning:  Undefined array key "bairro" in /home2/club1409/public_html/registro/processa_registro.php on line 23
+[22-Feb-2025 01:35:00 America/Fortaleza] PHP Warning:  Undefined array key "complemento" in /home2/club1409/public_html/registro/processa_registro.php on line 24
+[22-Feb-2025 01:35:00 America/Fortaleza] PHP Warning:  Undefined array key "agencia" in /home2/club1409/public_html/registro/processa_registro.php on line 25
+[22-Feb-2025 01:35:00 America/Fortaleza] PHP Warning:  Undefined array key "pix_tipo" in /home2/club1409/public_html/registro/processa_registro.php on line 26
+[22-Feb-2025 01:35:00 America/Fortaleza] PHP Warning:  Undefined array key "email" in /home2/club1409/public_html/registro/processa_registro.php on line 27
+[22-Feb-2025 01:35:00 America/Fortaleza] PHP Warning:  Undefined array key "telefone" in /home2/club1409/public_html/registro/processa_registro.php on line 28
+[22-Feb-2025 01:35:00 America/Fortaleza] PHP Warning:  Undefined array key "usuario" in /home2/club1409/public_html/registro/processa_registro.php on line 29
+[22-Feb-2025 01:35:00 America/Fortaleza] PHP Warning:  Undefined array key "senha" in /home2/club1409/public_html/registro/processa_registro.php on line 30
+[22-Feb-2025 01:35:00 America/Fortaleza] PHP Warning:  Undefined array key "total_investido" in /home2/club1409/public_html/registro/processa_registro.php on line 31
+[22-Feb-2025 01:35:00 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'tWvENZu9+ayE9GpAP8ripg==' for key 'unique_cpf' in /home2/club1409/public_html/registro/processa_registro.php:77
+Stack trace:
+#0 /home2/club1409/public_html/registro/processa_registro.php(77): mysqli->query('INSERT INTO usu...')
+#1 {main}
+  thrown in /home2/club1409/public_html/registro/processa_registro.php on line 77
+[22-Feb-2025 01:35:01 America/Fortaleza] PHP Warning:  Undefined array key "nome" in /home2/club1409/public_html/registro/processa_registro.php on line 6
+[22-Feb-2025 01:35:01 America/Fortaleza] PHP Warning:  Undefined array key "nascimento" in /home2/club1409/public_html/registro/processa_registro.php on line 7
+[22-Feb-2025 01:35:01 America/Fortaleza] PHP Warning:  Undefined array key "banco" in /home2/club1409/public_html/registro/processa_registro.php on line 8
+[22-Feb-2025 01:35:01 America/Fortaleza] PHP Warning:  Undefined array key "conta" in /home2/club1409/public_html/registro/processa_registro.php on line 9
+[22-Feb-2025 01:35:01 America/Fortaleza] PHP Warning:  Undefined array key "digito" in /home2/club1409/public_html/registro/processa_registro.php on line 10
+[22-Feb-2025 01:35:01 America/Fortaleza] PHP Warning:  Undefined array key "pix_chave" in /home2/club1409/public_html/registro/processa_registro.php on line 11
+[22-Feb-2025 01:35:01 America/Fortaleza] PHP Warning:  Undefined array key "cpf" in /home2/club1409/public_html/registro/processa_registro.php on line 12
+[22-Feb-2025 01:35:01 America/Fortaleza] PHP Warning:  Undefined array key "rg" in /home2/club1409/public_html/registro/processa_registro.php on line 13
+[22-Feb-2025 01:35:01 America/Fortaleza] PHP Warning:  Undefined array key "nacionalidade" in /home2/club1409/public_html/registro/processa_registro.php on line 14
+[22-Feb-2025 01:35:01 America/Fortaleza] PHP Warning:  Undefined array key "genero" in /home2/club1409/public_html/registro/processa_registro.php on line 15
+[22-Feb-2025 01:35:01 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil" in /home2/club1409/public_html/registro/processa_registro.php on line 16
+[22-Feb-2025 01:35:01 America/Fortaleza] PHP Warning:  Undefined array key "cep" in /home2/club1409/public_html/registro/processa_registro.php on line 17
+[22-Feb-2025 01:35:01 America/Fortaleza] PHP Warning:  Undefined array key "cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 18
+[22-Feb-2025 01:35:01 America/Fortaleza] PHP Warning:  Undefined array key "categoria_cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 19
+[22-Feb-2025 01:35:01 America/Fortaleza] PHP Warning:  Undefined array key "pais" in /home2/club1409/public_html/registro/processa_registro.php on line 20
+[22-Feb-2025 01:35:01 America/Fortaleza] PHP Warning:  Undefined array key "endereco" in /home2/club1409/public_html/registro/processa_registro.php on line 21
+[22-Feb-2025 01:35:01 America/Fortaleza] PHP Warning:  Undefined array key "numero" in /home2/club1409/public_html/registro/processa_registro.php on line 22
+[22-Feb-2025 01:35:01 America/Fortaleza] PHP Warning:  Undefined array key "bairro" in /home2/club1409/public_html/registro/processa_registro.php on line 23
+[22-Feb-2025 01:35:01 America/Fortaleza] PHP Warning:  Undefined array key "complemento" in /home2/club1409/public_html/registro/processa_registro.php on line 24
+[22-Feb-2025 01:35:01 America/Fortaleza] PHP Warning:  Undefined array key "agencia" in /home2/club1409/public_html/registro/processa_registro.php on line 25
+[22-Feb-2025 01:35:01 America/Fortaleza] PHP Warning:  Undefined array key "pix_tipo" in /home2/club1409/public_html/registro/processa_registro.php on line 26
+[22-Feb-2025 01:35:01 America/Fortaleza] PHP Warning:  Undefined array key "email" in /home2/club1409/public_html/registro/processa_registro.php on line 27
+[22-Feb-2025 01:35:01 America/Fortaleza] PHP Warning:  Undefined array key "telefone" in /home2/club1409/public_html/registro/processa_registro.php on line 28
+[22-Feb-2025 01:35:01 America/Fortaleza] PHP Warning:  Undefined array key "usuario" in /home2/club1409/public_html/registro/processa_registro.php on line 29
+[22-Feb-2025 01:35:01 America/Fortaleza] PHP Warning:  Undefined array key "senha" in /home2/club1409/public_html/registro/processa_registro.php on line 30
+[22-Feb-2025 01:35:01 America/Fortaleza] PHP Warning:  Undefined array key "total_investido" in /home2/club1409/public_html/registro/processa_registro.php on line 31
+[22-Feb-2025 01:35:01 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'tWvENZu9+ayE9GpAP8ripg==' for key 'unique_cpf' in /home2/club1409/public_html/registro/processa_registro.php:77
+Stack trace:
+#0 /home2/club1409/public_html/registro/processa_registro.php(77): mysqli->query('INSERT INTO usu...')
+#1 {main}
+  thrown in /home2/club1409/public_html/registro/processa_registro.php on line 77
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "nome" in /home2/club1409/public_html/registro/processa_registro.php on line 6
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "nascimento" in /home2/club1409/public_html/registro/processa_registro.php on line 7
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "banco" in /home2/club1409/public_html/registro/processa_registro.php on line 8
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "conta" in /home2/club1409/public_html/registro/processa_registro.php on line 9
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "digito" in /home2/club1409/public_html/registro/processa_registro.php on line 10
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "pix_chave" in /home2/club1409/public_html/registro/processa_registro.php on line 11
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "cpf" in /home2/club1409/public_html/registro/processa_registro.php on line 12
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "rg" in /home2/club1409/public_html/registro/processa_registro.php on line 13
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "nacionalidade" in /home2/club1409/public_html/registro/processa_registro.php on line 14
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "genero" in /home2/club1409/public_html/registro/processa_registro.php on line 15
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil" in /home2/club1409/public_html/registro/processa_registro.php on line 16
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "cep" in /home2/club1409/public_html/registro/processa_registro.php on line 17
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 18
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "categoria_cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 19
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "pais" in /home2/club1409/public_html/registro/processa_registro.php on line 20
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "endereco" in /home2/club1409/public_html/registro/processa_registro.php on line 21
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "numero" in /home2/club1409/public_html/registro/processa_registro.php on line 22
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "bairro" in /home2/club1409/public_html/registro/processa_registro.php on line 23
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "complemento" in /home2/club1409/public_html/registro/processa_registro.php on line 24
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "agencia" in /home2/club1409/public_html/registro/processa_registro.php on line 25
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "pix_tipo" in /home2/club1409/public_html/registro/processa_registro.php on line 26
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "email" in /home2/club1409/public_html/registro/processa_registro.php on line 27
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "telefone" in /home2/club1409/public_html/registro/processa_registro.php on line 28
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "usuario" in /home2/club1409/public_html/registro/processa_registro.php on line 29
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "senha" in /home2/club1409/public_html/registro/processa_registro.php on line 30
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "total_investido" in /home2/club1409/public_html/registro/processa_registro.php on line 31
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'tWvENZu9+ayE9GpAP8ripg==' for key 'unique_cpf' in /home2/club1409/public_html/registro/processa_registro.php:77
+Stack trace:
+#0 /home2/club1409/public_html/registro/processa_registro.php(77): mysqli->query('INSERT INTO usu...')
+#1 {main}
+  thrown in /home2/club1409/public_html/registro/processa_registro.php on line 77
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "nome" in /home2/club1409/public_html/registro/processa_registro.php on line 6
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "nascimento" in /home2/club1409/public_html/registro/processa_registro.php on line 7
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "banco" in /home2/club1409/public_html/registro/processa_registro.php on line 8
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "conta" in /home2/club1409/public_html/registro/processa_registro.php on line 9
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "digito" in /home2/club1409/public_html/registro/processa_registro.php on line 10
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "pix_chave" in /home2/club1409/public_html/registro/processa_registro.php on line 11
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "cpf" in /home2/club1409/public_html/registro/processa_registro.php on line 12
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "rg" in /home2/club1409/public_html/registro/processa_registro.php on line 13
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "nacionalidade" in /home2/club1409/public_html/registro/processa_registro.php on line 14
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "genero" in /home2/club1409/public_html/registro/processa_registro.php on line 15
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil" in /home2/club1409/public_html/registro/processa_registro.php on line 16
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "cep" in /home2/club1409/public_html/registro/processa_registro.php on line 17
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 18
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "categoria_cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 19
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "pais" in /home2/club1409/public_html/registro/processa_registro.php on line 20
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "endereco" in /home2/club1409/public_html/registro/processa_registro.php on line 21
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "numero" in /home2/club1409/public_html/registro/processa_registro.php on line 22
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "bairro" in /home2/club1409/public_html/registro/processa_registro.php on line 23
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "complemento" in /home2/club1409/public_html/registro/processa_registro.php on line 24
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "agencia" in /home2/club1409/public_html/registro/processa_registro.php on line 25
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "pix_tipo" in /home2/club1409/public_html/registro/processa_registro.php on line 26
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "email" in /home2/club1409/public_html/registro/processa_registro.php on line 27
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "telefone" in /home2/club1409/public_html/registro/processa_registro.php on line 28
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "usuario" in /home2/club1409/public_html/registro/processa_registro.php on line 29
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "senha" in /home2/club1409/public_html/registro/processa_registro.php on line 30
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Warning:  Undefined array key "total_investido" in /home2/club1409/public_html/registro/processa_registro.php on line 31
+[24-Feb-2025 01:35:09 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'tWvENZu9+ayE9GpAP8ripg==' for key 'unique_cpf' in /home2/club1409/public_html/registro/processa_registro.php:77
+Stack trace:
+#0 /home2/club1409/public_html/registro/processa_registro.php(77): mysqli->query('INSERT INTO usu...')
+#1 {main}
+  thrown in /home2/club1409/public_html/registro/processa_registro.php on line 77
+[25-Feb-2025 01:28:04 America/Fortaleza] PHP Warning:  Undefined array key "nome" in /home2/club1409/public_html/registro/processa_registro.php on line 6
+[25-Feb-2025 01:28:04 America/Fortaleza] PHP Warning:  Undefined array key "nascimento" in /home2/club1409/public_html/registro/processa_registro.php on line 7
+[25-Feb-2025 01:28:04 America/Fortaleza] PHP Warning:  Undefined array key "banco" in /home2/club1409/public_html/registro/processa_registro.php on line 8
+[25-Feb-2025 01:28:04 America/Fortaleza] PHP Warning:  Undefined array key "conta" in /home2/club1409/public_html/registro/processa_registro.php on line 9
+[25-Feb-2025 01:28:04 America/Fortaleza] PHP Warning:  Undefined array key "digito" in /home2/club1409/public_html/registro/processa_registro.php on line 10
+[25-Feb-2025 01:28:04 America/Fortaleza] PHP Warning:  Undefined array key "pix_chave" in /home2/club1409/public_html/registro/processa_registro.php on line 11
+[25-Feb-2025 01:28:04 America/Fortaleza] PHP Warning:  Undefined array key "cpf" in /home2/club1409/public_html/registro/processa_registro.php on line 12
+[25-Feb-2025 01:28:04 America/Fortaleza] PHP Warning:  Undefined array key "rg" in /home2/club1409/public_html/registro/processa_registro.php on line 13
+[25-Feb-2025 01:28:04 America/Fortaleza] PHP Warning:  Undefined array key "nacionalidade" in /home2/club1409/public_html/registro/processa_registro.php on line 14
+[25-Feb-2025 01:28:04 America/Fortaleza] PHP Warning:  Undefined array key "genero" in /home2/club1409/public_html/registro/processa_registro.php on line 15
+[25-Feb-2025 01:28:04 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil" in /home2/club1409/public_html/registro/processa_registro.php on line 16
+[25-Feb-2025 01:28:04 America/Fortaleza] PHP Warning:  Undefined array key "cep" in /home2/club1409/public_html/registro/processa_registro.php on line 17
+[25-Feb-2025 01:28:04 America/Fortaleza] PHP Warning:  Undefined array key "cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 18
+[25-Feb-2025 01:28:04 America/Fortaleza] PHP Warning:  Undefined array key "categoria_cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 19
+[25-Feb-2025 01:28:04 America/Fortaleza] PHP Warning:  Undefined array key "pais" in /home2/club1409/public_html/registro/processa_registro.php on line 20
+[25-Feb-2025 01:28:04 America/Fortaleza] PHP Warning:  Undefined array key "endereco" in /home2/club1409/public_html/registro/processa_registro.php on line 21
+[25-Feb-2025 01:28:04 America/Fortaleza] PHP Warning:  Undefined array key "numero" in /home2/club1409/public_html/registro/processa_registro.php on line 22
+[25-Feb-2025 01:28:04 America/Fortaleza] PHP Warning:  Undefined array key "bairro" in /home2/club1409/public_html/registro/processa_registro.php on line 23
+[25-Feb-2025 01:28:04 America/Fortaleza] PHP Warning:  Undefined array key "complemento" in /home2/club1409/public_html/registro/processa_registro.php on line 24
+[25-Feb-2025 01:28:04 America/Fortaleza] PHP Warning:  Undefined array key "agencia" in /home2/club1409/public_html/registro/processa_registro.php on line 25
+[25-Feb-2025 01:28:04 America/Fortaleza] PHP Warning:  Undefined array key "pix_tipo" in /home2/club1409/public_html/registro/processa_registro.php on line 26
+[25-Feb-2025 01:28:04 America/Fortaleza] PHP Warning:  Undefined array key "email" in /home2/club1409/public_html/registro/processa_registro.php on line 27
+[25-Feb-2025 01:28:04 America/Fortaleza] PHP Warning:  Undefined array key "telefone" in /home2/club1409/public_html/registro/processa_registro.php on line 28
+[25-Feb-2025 01:28:04 America/Fortaleza] PHP Warning:  Undefined array key "usuario" in /home2/club1409/public_html/registro/processa_registro.php on line 29
+[25-Feb-2025 01:28:04 America/Fortaleza] PHP Warning:  Undefined array key "senha" in /home2/club1409/public_html/registro/processa_registro.php on line 30
+[25-Feb-2025 01:28:04 America/Fortaleza] PHP Warning:  Undefined array key "total_investido" in /home2/club1409/public_html/registro/processa_registro.php on line 31
+[25-Feb-2025 01:28:05 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'tWvENZu9+ayE9GpAP8ripg==' for key 'unique_cpf' in /home2/club1409/public_html/registro/processa_registro.php:77
+Stack trace:
+#0 /home2/club1409/public_html/registro/processa_registro.php(77): mysqli->query('INSERT INTO usu...')
+#1 {main}
+  thrown in /home2/club1409/public_html/registro/processa_registro.php on line 77
+[25-Feb-2025 01:28:05 America/Fortaleza] PHP Warning:  Undefined array key "nome" in /home2/club1409/public_html/registro/processa_registro.php on line 6
+[25-Feb-2025 01:28:05 America/Fortaleza] PHP Warning:  Undefined array key "nascimento" in /home2/club1409/public_html/registro/processa_registro.php on line 7
+[25-Feb-2025 01:28:05 America/Fortaleza] PHP Warning:  Undefined array key "banco" in /home2/club1409/public_html/registro/processa_registro.php on line 8
+[25-Feb-2025 01:28:05 America/Fortaleza] PHP Warning:  Undefined array key "conta" in /home2/club1409/public_html/registro/processa_registro.php on line 9
+[25-Feb-2025 01:28:05 America/Fortaleza] PHP Warning:  Undefined array key "digito" in /home2/club1409/public_html/registro/processa_registro.php on line 10
+[25-Feb-2025 01:28:05 America/Fortaleza] PHP Warning:  Undefined array key "pix_chave" in /home2/club1409/public_html/registro/processa_registro.php on line 11
+[25-Feb-2025 01:28:05 America/Fortaleza] PHP Warning:  Undefined array key "cpf" in /home2/club1409/public_html/registro/processa_registro.php on line 12
+[25-Feb-2025 01:28:05 America/Fortaleza] PHP Warning:  Undefined array key "rg" in /home2/club1409/public_html/registro/processa_registro.php on line 13
+[25-Feb-2025 01:28:05 America/Fortaleza] PHP Warning:  Undefined array key "nacionalidade" in /home2/club1409/public_html/registro/processa_registro.php on line 14
+[25-Feb-2025 01:28:05 America/Fortaleza] PHP Warning:  Undefined array key "genero" in /home2/club1409/public_html/registro/processa_registro.php on line 15
+[25-Feb-2025 01:28:05 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil" in /home2/club1409/public_html/registro/processa_registro.php on line 16
+[25-Feb-2025 01:28:05 America/Fortaleza] PHP Warning:  Undefined array key "cep" in /home2/club1409/public_html/registro/processa_registro.php on line 17
+[25-Feb-2025 01:28:05 America/Fortaleza] PHP Warning:  Undefined array key "cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 18
+[25-Feb-2025 01:28:05 America/Fortaleza] PHP Warning:  Undefined array key "categoria_cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 19
+[25-Feb-2025 01:28:05 America/Fortaleza] PHP Warning:  Undefined array key "pais" in /home2/club1409/public_html/registro/processa_registro.php on line 20
+[25-Feb-2025 01:28:05 America/Fortaleza] PHP Warning:  Undefined array key "endereco" in /home2/club1409/public_html/registro/processa_registro.php on line 21
+[25-Feb-2025 01:28:05 America/Fortaleza] PHP Warning:  Undefined array key "numero" in /home2/club1409/public_html/registro/processa_registro.php on line 22
+[25-Feb-2025 01:28:05 America/Fortaleza] PHP Warning:  Undefined array key "bairro" in /home2/club1409/public_html/registro/processa_registro.php on line 23
+[25-Feb-2025 01:28:05 America/Fortaleza] PHP Warning:  Undefined array key "complemento" in /home2/club1409/public_html/registro/processa_registro.php on line 24
+[25-Feb-2025 01:28:05 America/Fortaleza] PHP Warning:  Undefined array key "agencia" in /home2/club1409/public_html/registro/processa_registro.php on line 25
+[25-Feb-2025 01:28:05 America/Fortaleza] PHP Warning:  Undefined array key "pix_tipo" in /home2/club1409/public_html/registro/processa_registro.php on line 26
+[25-Feb-2025 01:28:05 America/Fortaleza] PHP Warning:  Undefined array key "email" in /home2/club1409/public_html/registro/processa_registro.php on line 27
+[25-Feb-2025 01:28:05 America/Fortaleza] PHP Warning:  Undefined array key "telefone" in /home2/club1409/public_html/registro/processa_registro.php on line 28
+[25-Feb-2025 01:28:05 America/Fortaleza] PHP Warning:  Undefined array key "usuario" in /home2/club1409/public_html/registro/processa_registro.php on line 29
+[25-Feb-2025 01:28:05 America/Fortaleza] PHP Warning:  Undefined array key "senha" in /home2/club1409/public_html/registro/processa_registro.php on line 30
+[25-Feb-2025 01:28:05 America/Fortaleza] PHP Warning:  Undefined array key "total_investido" in /home2/club1409/public_html/registro/processa_registro.php on line 31
+[25-Feb-2025 01:28:05 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'tWvENZu9+ayE9GpAP8ripg==' for key 'unique_cpf' in /home2/club1409/public_html/registro/processa_registro.php:77
+Stack trace:
+#0 /home2/club1409/public_html/registro/processa_registro.php(77): mysqli->query('INSERT INTO usu...')
+#1 {main}
+  thrown in /home2/club1409/public_html/registro/processa_registro.php on line 77
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "nome" in /home2/club1409/public_html/registro/processa_registro.php on line 6
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "nascimento" in /home2/club1409/public_html/registro/processa_registro.php on line 7
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "banco" in /home2/club1409/public_html/registro/processa_registro.php on line 8
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "conta" in /home2/club1409/public_html/registro/processa_registro.php on line 9
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "digito" in /home2/club1409/public_html/registro/processa_registro.php on line 10
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "pix_chave" in /home2/club1409/public_html/registro/processa_registro.php on line 11
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "cpf" in /home2/club1409/public_html/registro/processa_registro.php on line 12
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "rg" in /home2/club1409/public_html/registro/processa_registro.php on line 13
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "nacionalidade" in /home2/club1409/public_html/registro/processa_registro.php on line 14
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "genero" in /home2/club1409/public_html/registro/processa_registro.php on line 15
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil" in /home2/club1409/public_html/registro/processa_registro.php on line 16
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "cep" in /home2/club1409/public_html/registro/processa_registro.php on line 17
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 18
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "categoria_cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 19
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "pais" in /home2/club1409/public_html/registro/processa_registro.php on line 20
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "endereco" in /home2/club1409/public_html/registro/processa_registro.php on line 21
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "numero" in /home2/club1409/public_html/registro/processa_registro.php on line 22
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "bairro" in /home2/club1409/public_html/registro/processa_registro.php on line 23
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "complemento" in /home2/club1409/public_html/registro/processa_registro.php on line 24
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "agencia" in /home2/club1409/public_html/registro/processa_registro.php on line 25
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "pix_tipo" in /home2/club1409/public_html/registro/processa_registro.php on line 26
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "email" in /home2/club1409/public_html/registro/processa_registro.php on line 27
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "telefone" in /home2/club1409/public_html/registro/processa_registro.php on line 28
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "usuario" in /home2/club1409/public_html/registro/processa_registro.php on line 29
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "senha" in /home2/club1409/public_html/registro/processa_registro.php on line 30
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "total_investido" in /home2/club1409/public_html/registro/processa_registro.php on line 31
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'tWvENZu9+ayE9GpAP8ripg==' for key 'unique_cpf' in /home2/club1409/public_html/registro/processa_registro.php:77
+Stack trace:
+#0 /home2/club1409/public_html/registro/processa_registro.php(77): mysqli->query('INSERT INTO usu...')
+#1 {main}
+  thrown in /home2/club1409/public_html/registro/processa_registro.php on line 77
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "nome" in /home2/club1409/public_html/registro/processa_registro.php on line 6
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "nascimento" in /home2/club1409/public_html/registro/processa_registro.php on line 7
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "banco" in /home2/club1409/public_html/registro/processa_registro.php on line 8
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "conta" in /home2/club1409/public_html/registro/processa_registro.php on line 9
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "digito" in /home2/club1409/public_html/registro/processa_registro.php on line 10
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "pix_chave" in /home2/club1409/public_html/registro/processa_registro.php on line 11
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "cpf" in /home2/club1409/public_html/registro/processa_registro.php on line 12
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "rg" in /home2/club1409/public_html/registro/processa_registro.php on line 13
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "nacionalidade" in /home2/club1409/public_html/registro/processa_registro.php on line 14
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "genero" in /home2/club1409/public_html/registro/processa_registro.php on line 15
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil" in /home2/club1409/public_html/registro/processa_registro.php on line 16
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "cep" in /home2/club1409/public_html/registro/processa_registro.php on line 17
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 18
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "categoria_cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 19
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "pais" in /home2/club1409/public_html/registro/processa_registro.php on line 20
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "endereco" in /home2/club1409/public_html/registro/processa_registro.php on line 21
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "numero" in /home2/club1409/public_html/registro/processa_registro.php on line 22
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "bairro" in /home2/club1409/public_html/registro/processa_registro.php on line 23
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "complemento" in /home2/club1409/public_html/registro/processa_registro.php on line 24
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "agencia" in /home2/club1409/public_html/registro/processa_registro.php on line 25
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "pix_tipo" in /home2/club1409/public_html/registro/processa_registro.php on line 26
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "email" in /home2/club1409/public_html/registro/processa_registro.php on line 27
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "telefone" in /home2/club1409/public_html/registro/processa_registro.php on line 28
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "usuario" in /home2/club1409/public_html/registro/processa_registro.php on line 29
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "senha" in /home2/club1409/public_html/registro/processa_registro.php on line 30
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Warning:  Undefined array key "total_investido" in /home2/club1409/public_html/registro/processa_registro.php on line 31
+[25-Feb-2025 01:28:06 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'tWvENZu9+ayE9GpAP8ripg==' for key 'unique_cpf' in /home2/club1409/public_html/registro/processa_registro.php:77
+Stack trace:
+#0 /home2/club1409/public_html/registro/processa_registro.php(77): mysqli->query('INSERT INTO usu...')
+#1 {main}
+  thrown in /home2/club1409/public_html/registro/processa_registro.php on line 77
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "nome" in /home2/club1409/public_html/registro/processa_registro.php on line 6
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "nascimento" in /home2/club1409/public_html/registro/processa_registro.php on line 7
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "banco" in /home2/club1409/public_html/registro/processa_registro.php on line 8
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "conta" in /home2/club1409/public_html/registro/processa_registro.php on line 9
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "digito" in /home2/club1409/public_html/registro/processa_registro.php on line 10
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "pix_chave" in /home2/club1409/public_html/registro/processa_registro.php on line 11
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "cpf" in /home2/club1409/public_html/registro/processa_registro.php on line 12
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "rg" in /home2/club1409/public_html/registro/processa_registro.php on line 13
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "nacionalidade" in /home2/club1409/public_html/registro/processa_registro.php on line 14
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "genero" in /home2/club1409/public_html/registro/processa_registro.php on line 15
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil" in /home2/club1409/public_html/registro/processa_registro.php on line 16
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "cep" in /home2/club1409/public_html/registro/processa_registro.php on line 17
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 18
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "categoria_cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 19
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "pais" in /home2/club1409/public_html/registro/processa_registro.php on line 20
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "endereco" in /home2/club1409/public_html/registro/processa_registro.php on line 21
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "numero" in /home2/club1409/public_html/registro/processa_registro.php on line 22
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "bairro" in /home2/club1409/public_html/registro/processa_registro.php on line 23
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "complemento" in /home2/club1409/public_html/registro/processa_registro.php on line 24
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "agencia" in /home2/club1409/public_html/registro/processa_registro.php on line 25
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "pix_tipo" in /home2/club1409/public_html/registro/processa_registro.php on line 26
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "email" in /home2/club1409/public_html/registro/processa_registro.php on line 27
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "telefone" in /home2/club1409/public_html/registro/processa_registro.php on line 28
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "usuario" in /home2/club1409/public_html/registro/processa_registro.php on line 29
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "senha" in /home2/club1409/public_html/registro/processa_registro.php on line 30
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "total_investido" in /home2/club1409/public_html/registro/processa_registro.php on line 31
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'tWvENZu9+ayE9GpAP8ripg==' for key 'unique_cpf' in /home2/club1409/public_html/registro/processa_registro.php:77
+Stack trace:
+#0 /home2/club1409/public_html/registro/processa_registro.php(77): mysqli->query('INSERT INTO usu...')
+#1 {main}
+  thrown in /home2/club1409/public_html/registro/processa_registro.php on line 77
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "nome" in /home2/club1409/public_html/registro/processa_registro.php on line 6
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "nascimento" in /home2/club1409/public_html/registro/processa_registro.php on line 7
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "banco" in /home2/club1409/public_html/registro/processa_registro.php on line 8
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "conta" in /home2/club1409/public_html/registro/processa_registro.php on line 9
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "digito" in /home2/club1409/public_html/registro/processa_registro.php on line 10
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "pix_chave" in /home2/club1409/public_html/registro/processa_registro.php on line 11
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "cpf" in /home2/club1409/public_html/registro/processa_registro.php on line 12
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "rg" in /home2/club1409/public_html/registro/processa_registro.php on line 13
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "nacionalidade" in /home2/club1409/public_html/registro/processa_registro.php on line 14
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "genero" in /home2/club1409/public_html/registro/processa_registro.php on line 15
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil" in /home2/club1409/public_html/registro/processa_registro.php on line 16
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "cep" in /home2/club1409/public_html/registro/processa_registro.php on line 17
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 18
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "categoria_cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 19
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "pais" in /home2/club1409/public_html/registro/processa_registro.php on line 20
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "endereco" in /home2/club1409/public_html/registro/processa_registro.php on line 21
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "numero" in /home2/club1409/public_html/registro/processa_registro.php on line 22
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "bairro" in /home2/club1409/public_html/registro/processa_registro.php on line 23
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "complemento" in /home2/club1409/public_html/registro/processa_registro.php on line 24
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "agencia" in /home2/club1409/public_html/registro/processa_registro.php on line 25
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "pix_tipo" in /home2/club1409/public_html/registro/processa_registro.php on line 26
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "email" in /home2/club1409/public_html/registro/processa_registro.php on line 27
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "telefone" in /home2/club1409/public_html/registro/processa_registro.php on line 28
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "usuario" in /home2/club1409/public_html/registro/processa_registro.php on line 29
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "senha" in /home2/club1409/public_html/registro/processa_registro.php on line 30
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Warning:  Undefined array key "total_investido" in /home2/club1409/public_html/registro/processa_registro.php on line 31
+[26-Feb-2025 01:31:23 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'tWvENZu9+ayE9GpAP8ripg==' for key 'unique_cpf' in /home2/club1409/public_html/registro/processa_registro.php:77
+Stack trace:
+#0 /home2/club1409/public_html/registro/processa_registro.php(77): mysqli->query('INSERT INTO usu...')
+#1 {main}
+  thrown in /home2/club1409/public_html/registro/processa_registro.php on line 77
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "nome" in /home2/club1409/public_html/registro/processa_registro.php on line 6
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "nascimento" in /home2/club1409/public_html/registro/processa_registro.php on line 7
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "banco" in /home2/club1409/public_html/registro/processa_registro.php on line 8
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "conta" in /home2/club1409/public_html/registro/processa_registro.php on line 9
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "digito" in /home2/club1409/public_html/registro/processa_registro.php on line 10
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "pix_chave" in /home2/club1409/public_html/registro/processa_registro.php on line 11
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "cpf" in /home2/club1409/public_html/registro/processa_registro.php on line 12
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "rg" in /home2/club1409/public_html/registro/processa_registro.php on line 13
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "nacionalidade" in /home2/club1409/public_html/registro/processa_registro.php on line 14
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "genero" in /home2/club1409/public_html/registro/processa_registro.php on line 15
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil" in /home2/club1409/public_html/registro/processa_registro.php on line 16
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "cep" in /home2/club1409/public_html/registro/processa_registro.php on line 17
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 18
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "categoria_cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 19
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "pais" in /home2/club1409/public_html/registro/processa_registro.php on line 20
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "endereco" in /home2/club1409/public_html/registro/processa_registro.php on line 21
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "numero" in /home2/club1409/public_html/registro/processa_registro.php on line 22
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "bairro" in /home2/club1409/public_html/registro/processa_registro.php on line 23
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "complemento" in /home2/club1409/public_html/registro/processa_registro.php on line 24
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "agencia" in /home2/club1409/public_html/registro/processa_registro.php on line 25
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "pix_tipo" in /home2/club1409/public_html/registro/processa_registro.php on line 26
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "email" in /home2/club1409/public_html/registro/processa_registro.php on line 27
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "telefone" in /home2/club1409/public_html/registro/processa_registro.php on line 28
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "usuario" in /home2/club1409/public_html/registro/processa_registro.php on line 29
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "senha" in /home2/club1409/public_html/registro/processa_registro.php on line 30
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "total_investido" in /home2/club1409/public_html/registro/processa_registro.php on line 31
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'tWvENZu9+ayE9GpAP8ripg==' for key 'unique_cpf' in /home2/club1409/public_html/registro/processa_registro.php:77
+Stack trace:
+#0 /home2/club1409/public_html/registro/processa_registro.php(77): mysqli->query('INSERT INTO usu...')
+#1 {main}
+  thrown in /home2/club1409/public_html/registro/processa_registro.php on line 77
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "nome" in /home2/club1409/public_html/registro/processa_registro.php on line 6
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "nascimento" in /home2/club1409/public_html/registro/processa_registro.php on line 7
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "banco" in /home2/club1409/public_html/registro/processa_registro.php on line 8
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "conta" in /home2/club1409/public_html/registro/processa_registro.php on line 9
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "digito" in /home2/club1409/public_html/registro/processa_registro.php on line 10
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "pix_chave" in /home2/club1409/public_html/registro/processa_registro.php on line 11
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "cpf" in /home2/club1409/public_html/registro/processa_registro.php on line 12
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "rg" in /home2/club1409/public_html/registro/processa_registro.php on line 13
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "nacionalidade" in /home2/club1409/public_html/registro/processa_registro.php on line 14
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "genero" in /home2/club1409/public_html/registro/processa_registro.php on line 15
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil" in /home2/club1409/public_html/registro/processa_registro.php on line 16
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "cep" in /home2/club1409/public_html/registro/processa_registro.php on line 17
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 18
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "categoria_cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 19
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "pais" in /home2/club1409/public_html/registro/processa_registro.php on line 20
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "endereco" in /home2/club1409/public_html/registro/processa_registro.php on line 21
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "numero" in /home2/club1409/public_html/registro/processa_registro.php on line 22
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "bairro" in /home2/club1409/public_html/registro/processa_registro.php on line 23
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "complemento" in /home2/club1409/public_html/registro/processa_registro.php on line 24
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "agencia" in /home2/club1409/public_html/registro/processa_registro.php on line 25
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "pix_tipo" in /home2/club1409/public_html/registro/processa_registro.php on line 26
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "email" in /home2/club1409/public_html/registro/processa_registro.php on line 27
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "telefone" in /home2/club1409/public_html/registro/processa_registro.php on line 28
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "usuario" in /home2/club1409/public_html/registro/processa_registro.php on line 29
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "senha" in /home2/club1409/public_html/registro/processa_registro.php on line 30
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Warning:  Undefined array key "total_investido" in /home2/club1409/public_html/registro/processa_registro.php on line 31
+[27-Feb-2025 01:33:10 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'tWvENZu9+ayE9GpAP8ripg==' for key 'unique_cpf' in /home2/club1409/public_html/registro/processa_registro.php:77
+Stack trace:
+#0 /home2/club1409/public_html/registro/processa_registro.php(77): mysqli->query('INSERT INTO usu...')
+#1 {main}
+  thrown in /home2/club1409/public_html/registro/processa_registro.php on line 77
+[02-Mar-2025 03:02:48 America/Fortaleza] PHP Warning:  Undefined array key "nome" in /home2/club1409/public_html/registro/processa_registro.php on line 6
+[02-Mar-2025 03:02:48 America/Fortaleza] PHP Warning:  Undefined array key "nascimento" in /home2/club1409/public_html/registro/processa_registro.php on line 7
+[02-Mar-2025 03:02:48 America/Fortaleza] PHP Warning:  Undefined array key "banco" in /home2/club1409/public_html/registro/processa_registro.php on line 8
+[02-Mar-2025 03:02:48 America/Fortaleza] PHP Warning:  Undefined array key "conta" in /home2/club1409/public_html/registro/processa_registro.php on line 9
+[02-Mar-2025 03:02:48 America/Fortaleza] PHP Warning:  Undefined array key "digito" in /home2/club1409/public_html/registro/processa_registro.php on line 10
+[02-Mar-2025 03:02:48 America/Fortaleza] PHP Warning:  Undefined array key "pix_chave" in /home2/club1409/public_html/registro/processa_registro.php on line 11
+[02-Mar-2025 03:02:48 America/Fortaleza] PHP Warning:  Undefined array key "cpf" in /home2/club1409/public_html/registro/processa_registro.php on line 12
+[02-Mar-2025 03:02:48 America/Fortaleza] PHP Warning:  Undefined array key "rg" in /home2/club1409/public_html/registro/processa_registro.php on line 13
+[02-Mar-2025 03:02:48 America/Fortaleza] PHP Warning:  Undefined array key "nacionalidade" in /home2/club1409/public_html/registro/processa_registro.php on line 14
+[02-Mar-2025 03:02:48 America/Fortaleza] PHP Warning:  Undefined array key "genero" in /home2/club1409/public_html/registro/processa_registro.php on line 15
+[02-Mar-2025 03:02:48 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil" in /home2/club1409/public_html/registro/processa_registro.php on line 16
+[02-Mar-2025 03:02:48 America/Fortaleza] PHP Warning:  Undefined array key "cep" in /home2/club1409/public_html/registro/processa_registro.php on line 17
+[02-Mar-2025 03:02:48 America/Fortaleza] PHP Warning:  Undefined array key "cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 18
+[02-Mar-2025 03:02:48 America/Fortaleza] PHP Warning:  Undefined array key "categoria_cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 19
+[02-Mar-2025 03:02:48 America/Fortaleza] PHP Warning:  Undefined array key "pais" in /home2/club1409/public_html/registro/processa_registro.php on line 20
+[02-Mar-2025 03:02:48 America/Fortaleza] PHP Warning:  Undefined array key "endereco" in /home2/club1409/public_html/registro/processa_registro.php on line 21
+[02-Mar-2025 03:02:48 America/Fortaleza] PHP Warning:  Undefined array key "numero" in /home2/club1409/public_html/registro/processa_registro.php on line 22
+[02-Mar-2025 03:02:48 America/Fortaleza] PHP Warning:  Undefined array key "bairro" in /home2/club1409/public_html/registro/processa_registro.php on line 23
+[02-Mar-2025 03:02:48 America/Fortaleza] PHP Warning:  Undefined array key "complemento" in /home2/club1409/public_html/registro/processa_registro.php on line 24
+[02-Mar-2025 03:02:48 America/Fortaleza] PHP Warning:  Undefined array key "agencia" in /home2/club1409/public_html/registro/processa_registro.php on line 25
+[02-Mar-2025 03:02:48 America/Fortaleza] PHP Warning:  Undefined array key "pix_tipo" in /home2/club1409/public_html/registro/processa_registro.php on line 26
+[02-Mar-2025 03:02:48 America/Fortaleza] PHP Warning:  Undefined array key "email" in /home2/club1409/public_html/registro/processa_registro.php on line 27
+[02-Mar-2025 03:02:48 America/Fortaleza] PHP Warning:  Undefined array key "telefone" in /home2/club1409/public_html/registro/processa_registro.php on line 28
+[02-Mar-2025 03:02:48 America/Fortaleza] PHP Warning:  Undefined array key "usuario" in /home2/club1409/public_html/registro/processa_registro.php on line 29
+[02-Mar-2025 03:02:48 America/Fortaleza] PHP Warning:  Undefined array key "senha" in /home2/club1409/public_html/registro/processa_registro.php on line 30
+[02-Mar-2025 03:02:48 America/Fortaleza] PHP Warning:  Undefined array key "total_investido" in /home2/club1409/public_html/registro/processa_registro.php on line 31
+[02-Mar-2025 03:02:49 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'tWvENZu9+ayE9GpAP8ripg==' for key 'unique_cpf' in /home2/club1409/public_html/registro/processa_registro.php:77
+Stack trace:
+#0 /home2/club1409/public_html/registro/processa_registro.php(77): mysqli->query('INSERT INTO usu...')
+#1 {main}
+  thrown in /home2/club1409/public_html/registro/processa_registro.php on line 77
+[02-Mar-2025 03:02:49 America/Fortaleza] PHP Warning:  Undefined array key "nome" in /home2/club1409/public_html/registro/processa_registro.php on line 6
+[02-Mar-2025 03:02:49 America/Fortaleza] PHP Warning:  Undefined array key "nascimento" in /home2/club1409/public_html/registro/processa_registro.php on line 7
+[02-Mar-2025 03:02:49 America/Fortaleza] PHP Warning:  Undefined array key "banco" in /home2/club1409/public_html/registro/processa_registro.php on line 8
+[02-Mar-2025 03:02:49 America/Fortaleza] PHP Warning:  Undefined array key "conta" in /home2/club1409/public_html/registro/processa_registro.php on line 9
+[02-Mar-2025 03:02:49 America/Fortaleza] PHP Warning:  Undefined array key "digito" in /home2/club1409/public_html/registro/processa_registro.php on line 10
+[02-Mar-2025 03:02:49 America/Fortaleza] PHP Warning:  Undefined array key "pix_chave" in /home2/club1409/public_html/registro/processa_registro.php on line 11
+[02-Mar-2025 03:02:49 America/Fortaleza] PHP Warning:  Undefined array key "cpf" in /home2/club1409/public_html/registro/processa_registro.php on line 12
+[02-Mar-2025 03:02:49 America/Fortaleza] PHP Warning:  Undefined array key "rg" in /home2/club1409/public_html/registro/processa_registro.php on line 13
+[02-Mar-2025 03:02:49 America/Fortaleza] PHP Warning:  Undefined array key "nacionalidade" in /home2/club1409/public_html/registro/processa_registro.php on line 14
+[02-Mar-2025 03:02:49 America/Fortaleza] PHP Warning:  Undefined array key "genero" in /home2/club1409/public_html/registro/processa_registro.php on line 15
+[02-Mar-2025 03:02:49 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil" in /home2/club1409/public_html/registro/processa_registro.php on line 16
+[02-Mar-2025 03:02:49 America/Fortaleza] PHP Warning:  Undefined array key "cep" in /home2/club1409/public_html/registro/processa_registro.php on line 17
+[02-Mar-2025 03:02:49 America/Fortaleza] PHP Warning:  Undefined array key "cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 18
+[02-Mar-2025 03:02:49 America/Fortaleza] PHP Warning:  Undefined array key "categoria_cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 19
+[02-Mar-2025 03:02:49 America/Fortaleza] PHP Warning:  Undefined array key "pais" in /home2/club1409/public_html/registro/processa_registro.php on line 20
+[02-Mar-2025 03:02:49 America/Fortaleza] PHP Warning:  Undefined array key "endereco" in /home2/club1409/public_html/registro/processa_registro.php on line 21
+[02-Mar-2025 03:02:49 America/Fortaleza] PHP Warning:  Undefined array key "numero" in /home2/club1409/public_html/registro/processa_registro.php on line 22
+[02-Mar-2025 03:02:49 America/Fortaleza] PHP Warning:  Undefined array key "bairro" in /home2/club1409/public_html/registro/processa_registro.php on line 23
+[02-Mar-2025 03:02:49 America/Fortaleza] PHP Warning:  Undefined array key "complemento" in /home2/club1409/public_html/registro/processa_registro.php on line 24
+[02-Mar-2025 03:02:49 America/Fortaleza] PHP Warning:  Undefined array key "agencia" in /home2/club1409/public_html/registro/processa_registro.php on line 25
+[02-Mar-2025 03:02:49 America/Fortaleza] PHP Warning:  Undefined array key "pix_tipo" in /home2/club1409/public_html/registro/processa_registro.php on line 26
+[02-Mar-2025 03:02:49 America/Fortaleza] PHP Warning:  Undefined array key "email" in /home2/club1409/public_html/registro/processa_registro.php on line 27
+[02-Mar-2025 03:02:49 America/Fortaleza] PHP Warning:  Undefined array key "telefone" in /home2/club1409/public_html/registro/processa_registro.php on line 28
+[02-Mar-2025 03:02:49 America/Fortaleza] PHP Warning:  Undefined array key "usuario" in /home2/club1409/public_html/registro/processa_registro.php on line 29
+[02-Mar-2025 03:02:49 America/Fortaleza] PHP Warning:  Undefined array key "senha" in /home2/club1409/public_html/registro/processa_registro.php on line 30
+[02-Mar-2025 03:02:49 America/Fortaleza] PHP Warning:  Undefined array key "total_investido" in /home2/club1409/public_html/registro/processa_registro.php on line 31
+[02-Mar-2025 03:02:49 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'tWvENZu9+ayE9GpAP8ripg==' for key 'unique_cpf' in /home2/club1409/public_html/registro/processa_registro.php:77
+Stack trace:
+#0 /home2/club1409/public_html/registro/processa_registro.php(77): mysqli->query('INSERT INTO usu...')
+#1 {main}
+  thrown in /home2/club1409/public_html/registro/processa_registro.php on line 77
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "nome" in /home2/club1409/public_html/registro/processa_registro.php on line 6
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "nascimento" in /home2/club1409/public_html/registro/processa_registro.php on line 7
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "banco" in /home2/club1409/public_html/registro/processa_registro.php on line 8
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "conta" in /home2/club1409/public_html/registro/processa_registro.php on line 9
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "digito" in /home2/club1409/public_html/registro/processa_registro.php on line 10
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "pix_chave" in /home2/club1409/public_html/registro/processa_registro.php on line 11
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "cpf" in /home2/club1409/public_html/registro/processa_registro.php on line 12
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "rg" in /home2/club1409/public_html/registro/processa_registro.php on line 13
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "nacionalidade" in /home2/club1409/public_html/registro/processa_registro.php on line 14
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "genero" in /home2/club1409/public_html/registro/processa_registro.php on line 15
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil" in /home2/club1409/public_html/registro/processa_registro.php on line 16
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "cep" in /home2/club1409/public_html/registro/processa_registro.php on line 17
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 18
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "categoria_cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 19
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "pais" in /home2/club1409/public_html/registro/processa_registro.php on line 20
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "endereco" in /home2/club1409/public_html/registro/processa_registro.php on line 21
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "numero" in /home2/club1409/public_html/registro/processa_registro.php on line 22
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "bairro" in /home2/club1409/public_html/registro/processa_registro.php on line 23
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "complemento" in /home2/club1409/public_html/registro/processa_registro.php on line 24
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "agencia" in /home2/club1409/public_html/registro/processa_registro.php on line 25
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "pix_tipo" in /home2/club1409/public_html/registro/processa_registro.php on line 26
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "email" in /home2/club1409/public_html/registro/processa_registro.php on line 27
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "telefone" in /home2/club1409/public_html/registro/processa_registro.php on line 28
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "usuario" in /home2/club1409/public_html/registro/processa_registro.php on line 29
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "senha" in /home2/club1409/public_html/registro/processa_registro.php on line 30
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "total_investido" in /home2/club1409/public_html/registro/processa_registro.php on line 31
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'tWvENZu9+ayE9GpAP8ripg==' for key 'unique_cpf' in /home2/club1409/public_html/registro/processa_registro.php:77
+Stack trace:
+#0 /home2/club1409/public_html/registro/processa_registro.php(77): mysqli->query('INSERT INTO usu...')
+#1 {main}
+  thrown in /home2/club1409/public_html/registro/processa_registro.php on line 77
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "nome" in /home2/club1409/public_html/registro/processa_registro.php on line 6
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "nascimento" in /home2/club1409/public_html/registro/processa_registro.php on line 7
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "banco" in /home2/club1409/public_html/registro/processa_registro.php on line 8
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "conta" in /home2/club1409/public_html/registro/processa_registro.php on line 9
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "digito" in /home2/club1409/public_html/registro/processa_registro.php on line 10
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "pix_chave" in /home2/club1409/public_html/registro/processa_registro.php on line 11
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "cpf" in /home2/club1409/public_html/registro/processa_registro.php on line 12
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "rg" in /home2/club1409/public_html/registro/processa_registro.php on line 13
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "nacionalidade" in /home2/club1409/public_html/registro/processa_registro.php on line 14
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "genero" in /home2/club1409/public_html/registro/processa_registro.php on line 15
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil" in /home2/club1409/public_html/registro/processa_registro.php on line 16
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "cep" in /home2/club1409/public_html/registro/processa_registro.php on line 17
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 18
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "categoria_cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 19
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "pais" in /home2/club1409/public_html/registro/processa_registro.php on line 20
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "endereco" in /home2/club1409/public_html/registro/processa_registro.php on line 21
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "numero" in /home2/club1409/public_html/registro/processa_registro.php on line 22
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "bairro" in /home2/club1409/public_html/registro/processa_registro.php on line 23
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "complemento" in /home2/club1409/public_html/registro/processa_registro.php on line 24
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "agencia" in /home2/club1409/public_html/registro/processa_registro.php on line 25
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "pix_tipo" in /home2/club1409/public_html/registro/processa_registro.php on line 26
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "email" in /home2/club1409/public_html/registro/processa_registro.php on line 27
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "telefone" in /home2/club1409/public_html/registro/processa_registro.php on line 28
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "usuario" in /home2/club1409/public_html/registro/processa_registro.php on line 29
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "senha" in /home2/club1409/public_html/registro/processa_registro.php on line 30
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Warning:  Undefined array key "total_investido" in /home2/club1409/public_html/registro/processa_registro.php on line 31
+[04-Mar-2025 03:28:06 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'tWvENZu9+ayE9GpAP8ripg==' for key 'unique_cpf' in /home2/club1409/public_html/registro/processa_registro.php:77
+Stack trace:
+#0 /home2/club1409/public_html/registro/processa_registro.php(77): mysqli->query('INSERT INTO usu...')
+#1 {main}
+  thrown in /home2/club1409/public_html/registro/processa_registro.php on line 77
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "nome" in /home2/club1409/public_html/registro/processa_registro.php on line 6
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "nascimento" in /home2/club1409/public_html/registro/processa_registro.php on line 7
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "banco" in /home2/club1409/public_html/registro/processa_registro.php on line 8
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "conta" in /home2/club1409/public_html/registro/processa_registro.php on line 9
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "digito" in /home2/club1409/public_html/registro/processa_registro.php on line 10
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "pix_chave" in /home2/club1409/public_html/registro/processa_registro.php on line 11
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "cpf" in /home2/club1409/public_html/registro/processa_registro.php on line 12
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "rg" in /home2/club1409/public_html/registro/processa_registro.php on line 13
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "nacionalidade" in /home2/club1409/public_html/registro/processa_registro.php on line 14
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "genero" in /home2/club1409/public_html/registro/processa_registro.php on line 15
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil" in /home2/club1409/public_html/registro/processa_registro.php on line 16
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "cep" in /home2/club1409/public_html/registro/processa_registro.php on line 17
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 18
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "categoria_cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 19
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "pais" in /home2/club1409/public_html/registro/processa_registro.php on line 20
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "endereco" in /home2/club1409/public_html/registro/processa_registro.php on line 21
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "numero" in /home2/club1409/public_html/registro/processa_registro.php on line 22
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "bairro" in /home2/club1409/public_html/registro/processa_registro.php on line 23
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "complemento" in /home2/club1409/public_html/registro/processa_registro.php on line 24
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "agencia" in /home2/club1409/public_html/registro/processa_registro.php on line 25
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "pix_tipo" in /home2/club1409/public_html/registro/processa_registro.php on line 26
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "email" in /home2/club1409/public_html/registro/processa_registro.php on line 27
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "telefone" in /home2/club1409/public_html/registro/processa_registro.php on line 28
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "usuario" in /home2/club1409/public_html/registro/processa_registro.php on line 29
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "senha" in /home2/club1409/public_html/registro/processa_registro.php on line 30
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "total_investido" in /home2/club1409/public_html/registro/processa_registro.php on line 31
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'tWvENZu9+ayE9GpAP8ripg==' for key 'unique_cpf' in /home2/club1409/public_html/registro/processa_registro.php:77
+Stack trace:
+#0 /home2/club1409/public_html/registro/processa_registro.php(77): mysqli->query('INSERT INTO usu...')
+#1 {main}
+  thrown in /home2/club1409/public_html/registro/processa_registro.php on line 77
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "nome" in /home2/club1409/public_html/registro/processa_registro.php on line 6
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "nascimento" in /home2/club1409/public_html/registro/processa_registro.php on line 7
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "banco" in /home2/club1409/public_html/registro/processa_registro.php on line 8
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "conta" in /home2/club1409/public_html/registro/processa_registro.php on line 9
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "digito" in /home2/club1409/public_html/registro/processa_registro.php on line 10
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "pix_chave" in /home2/club1409/public_html/registro/processa_registro.php on line 11
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "cpf" in /home2/club1409/public_html/registro/processa_registro.php on line 12
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "rg" in /home2/club1409/public_html/registro/processa_registro.php on line 13
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "nacionalidade" in /home2/club1409/public_html/registro/processa_registro.php on line 14
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "genero" in /home2/club1409/public_html/registro/processa_registro.php on line 15
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil" in /home2/club1409/public_html/registro/processa_registro.php on line 16
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "cep" in /home2/club1409/public_html/registro/processa_registro.php on line 17
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 18
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "categoria_cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 19
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "pais" in /home2/club1409/public_html/registro/processa_registro.php on line 20
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "endereco" in /home2/club1409/public_html/registro/processa_registro.php on line 21
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "numero" in /home2/club1409/public_html/registro/processa_registro.php on line 22
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "bairro" in /home2/club1409/public_html/registro/processa_registro.php on line 23
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "complemento" in /home2/club1409/public_html/registro/processa_registro.php on line 24
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "agencia" in /home2/club1409/public_html/registro/processa_registro.php on line 25
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "pix_tipo" in /home2/club1409/public_html/registro/processa_registro.php on line 26
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "email" in /home2/club1409/public_html/registro/processa_registro.php on line 27
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "telefone" in /home2/club1409/public_html/registro/processa_registro.php on line 28
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "usuario" in /home2/club1409/public_html/registro/processa_registro.php on line 29
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "senha" in /home2/club1409/public_html/registro/processa_registro.php on line 30
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Warning:  Undefined array key "total_investido" in /home2/club1409/public_html/registro/processa_registro.php on line 31
+[05-Mar-2025 02:22:25 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'tWvENZu9+ayE9GpAP8ripg==' for key 'unique_cpf' in /home2/club1409/public_html/registro/processa_registro.php:77
+Stack trace:
+#0 /home2/club1409/public_html/registro/processa_registro.php(77): mysqli->query('INSERT INTO usu...')
+#1 {main}
+  thrown in /home2/club1409/public_html/registro/processa_registro.php on line 77
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "nome" in /home2/club1409/public_html/registro/processa_registro.php on line 6
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "nascimento" in /home2/club1409/public_html/registro/processa_registro.php on line 7
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "banco" in /home2/club1409/public_html/registro/processa_registro.php on line 8
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "conta" in /home2/club1409/public_html/registro/processa_registro.php on line 9
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "digito" in /home2/club1409/public_html/registro/processa_registro.php on line 10
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "pix_chave" in /home2/club1409/public_html/registro/processa_registro.php on line 11
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "cpf" in /home2/club1409/public_html/registro/processa_registro.php on line 12
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "rg" in /home2/club1409/public_html/registro/processa_registro.php on line 13
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "nacionalidade" in /home2/club1409/public_html/registro/processa_registro.php on line 14
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "genero" in /home2/club1409/public_html/registro/processa_registro.php on line 15
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil" in /home2/club1409/public_html/registro/processa_registro.php on line 16
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "cep" in /home2/club1409/public_html/registro/processa_registro.php on line 17
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 18
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "categoria_cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 19
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "pais" in /home2/club1409/public_html/registro/processa_registro.php on line 20
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "endereco" in /home2/club1409/public_html/registro/processa_registro.php on line 21
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "numero" in /home2/club1409/public_html/registro/processa_registro.php on line 22
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "bairro" in /home2/club1409/public_html/registro/processa_registro.php on line 23
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "complemento" in /home2/club1409/public_html/registro/processa_registro.php on line 24
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "agencia" in /home2/club1409/public_html/registro/processa_registro.php on line 25
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "pix_tipo" in /home2/club1409/public_html/registro/processa_registro.php on line 26
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "email" in /home2/club1409/public_html/registro/processa_registro.php on line 27
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "telefone" in /home2/club1409/public_html/registro/processa_registro.php on line 28
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "usuario" in /home2/club1409/public_html/registro/processa_registro.php on line 29
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "senha" in /home2/club1409/public_html/registro/processa_registro.php on line 30
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "total_investido" in /home2/club1409/public_html/registro/processa_registro.php on line 31
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'tWvENZu9+ayE9GpAP8ripg==' for key 'unique_cpf' in /home2/club1409/public_html/registro/processa_registro.php:77
+Stack trace:
+#0 /home2/club1409/public_html/registro/processa_registro.php(77): mysqli->query('INSERT INTO usu...')
+#1 {main}
+  thrown in /home2/club1409/public_html/registro/processa_registro.php on line 77
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "nome" in /home2/club1409/public_html/registro/processa_registro.php on line 6
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "nascimento" in /home2/club1409/public_html/registro/processa_registro.php on line 7
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "banco" in /home2/club1409/public_html/registro/processa_registro.php on line 8
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "conta" in /home2/club1409/public_html/registro/processa_registro.php on line 9
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "digito" in /home2/club1409/public_html/registro/processa_registro.php on line 10
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "pix_chave" in /home2/club1409/public_html/registro/processa_registro.php on line 11
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "cpf" in /home2/club1409/public_html/registro/processa_registro.php on line 12
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "rg" in /home2/club1409/public_html/registro/processa_registro.php on line 13
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "nacionalidade" in /home2/club1409/public_html/registro/processa_registro.php on line 14
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "genero" in /home2/club1409/public_html/registro/processa_registro.php on line 15
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil" in /home2/club1409/public_html/registro/processa_registro.php on line 16
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "cep" in /home2/club1409/public_html/registro/processa_registro.php on line 17
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 18
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "categoria_cnh" in /home2/club1409/public_html/registro/processa_registro.php on line 19
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "pais" in /home2/club1409/public_html/registro/processa_registro.php on line 20
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "endereco" in /home2/club1409/public_html/registro/processa_registro.php on line 21
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "numero" in /home2/club1409/public_html/registro/processa_registro.php on line 22
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "bairro" in /home2/club1409/public_html/registro/processa_registro.php on line 23
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "complemento" in /home2/club1409/public_html/registro/processa_registro.php on line 24
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "agencia" in /home2/club1409/public_html/registro/processa_registro.php on line 25
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "pix_tipo" in /home2/club1409/public_html/registro/processa_registro.php on line 26
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "email" in /home2/club1409/public_html/registro/processa_registro.php on line 27
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "telefone" in /home2/club1409/public_html/registro/processa_registro.php on line 28
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "usuario" in /home2/club1409/public_html/registro/processa_registro.php on line 29
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "senha" in /home2/club1409/public_html/registro/processa_registro.php on line 30
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Warning:  Undefined array key "total_investido" in /home2/club1409/public_html/registro/processa_registro.php on line 31
+[06-Mar-2025 02:39:20 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'tWvENZu9+ayE9GpAP8ripg==' for key 'unique_cpf' in /home2/club1409/public_html/registro/processa_registro.php:77
+Stack trace:
+#0 /home2/club1409/public_html/registro/processa_registro.php(77): mysqli->query('INSERT INTO usu...')
+#1 {main}
+  thrown in /home2/club1409/public_html/registro/processa_registro.php on line 77

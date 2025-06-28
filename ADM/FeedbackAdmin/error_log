@@ -1,0 +1,40 @@
+[13-Mar-2025 13:50:48 America/Fortaleza] PHP Warning:  include(../conexao/conexao.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/ADM/FeedbackAdmin/admin_feedback.php on line 3
+[13-Mar-2025 13:50:48 America/Fortaleza] PHP Warning:  include(): Failed opening '../conexao/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/ADM/FeedbackAdmin/admin_feedback.php on line 3
+[13-Mar-2025 13:50:48 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/club1409/public_html/ADM/FeedbackAdmin/admin_feedback.php on line 14
+[13-Mar-2025 13:50:48 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/club1409/public_html/ADM/FeedbackAdmin/admin_feedback.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/club1409/public_html/ADM/FeedbackAdmin/admin_feedback.php on line 14
+[13-Mar-2025 13:51:15 America/Fortaleza] PHP Warning:  include(../conexao/conexao.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/ADM/FeedbackAdmin/admin_feedback.php on line 3
+[13-Mar-2025 13:51:15 America/Fortaleza] PHP Warning:  include(): Failed opening '../conexao/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/ADM/FeedbackAdmin/admin_feedback.php on line 3
+[13-Mar-2025 13:51:15 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/club1409/public_html/ADM/FeedbackAdmin/admin_feedback.php on line 14
+[13-Mar-2025 13:51:15 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/club1409/public_html/ADM/FeedbackAdmin/admin_feedback.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/club1409/public_html/ADM/FeedbackAdmin/admin_feedback.php on line 14
+[13-Mar-2025 13:52:03 America/Fortaleza] PHP Warning:  include(../conexao/conexao.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/ADM/FeedbackAdmin/admin_feedback.php on line 3
+[13-Mar-2025 13:52:03 America/Fortaleza] PHP Warning:  include(): Failed opening '../conexao/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/ADM/FeedbackAdmin/admin_feedback.php on line 3
+[13-Mar-2025 13:52:03 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/club1409/public_html/ADM/FeedbackAdmin/admin_feedback.php on line 13
+[13-Mar-2025 13:52:03 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/club1409/public_html/ADM/FeedbackAdmin/admin_feedback.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/club1409/public_html/ADM/FeedbackAdmin/admin_feedback.php on line 13
+[13-Mar-2025 13:52:07 America/Fortaleza] PHP Warning:  include(../conexao/conexao.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/ADM/FeedbackAdmin/admin_feedback.php on line 3
+[13-Mar-2025 13:52:07 America/Fortaleza] PHP Warning:  include(): Failed opening '../conexao/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/ADM/FeedbackAdmin/admin_feedback.php on line 3
+[13-Mar-2025 13:52:07 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/club1409/public_html/ADM/FeedbackAdmin/admin_feedback.php on line 13
+[13-Mar-2025 13:52:07 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/club1409/public_html/ADM/FeedbackAdmin/admin_feedback.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/club1409/public_html/ADM/FeedbackAdmin/admin_feedback.php on line 13
+[13-Mar-2025 13:52:32 America/Fortaleza] PHP Warning:  include(../conexao/conexao.php): Failed to open stream: No such file or directory in /home2/club1409/public_html/ADM/FeedbackAdmin/admin_feedback.php on line 3
+[13-Mar-2025 13:52:32 America/Fortaleza] PHP Warning:  include(): Failed opening '../conexao/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/club1409/public_html/ADM/FeedbackAdmin/admin_feedback.php on line 3
+[13-Mar-2025 13:52:32 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/club1409/public_html/ADM/FeedbackAdmin/admin_feedback.php on line 13
+[13-Mar-2025 13:52:32 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/club1409/public_html/ADM/FeedbackAdmin/admin_feedback.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/club1409/public_html/ADM/FeedbackAdmin/admin_feedback.php on line 13
+[13-Mar-2025 13:53:25 America/Fortaleza] PHP Warning:  Undefined variable $result in /home2/club1409/public_html/ADM/FeedbackAdmin/admin_feedback.php on line 37
+[13-Mar-2025 13:53:25 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home2/club1409/public_html/ADM/FeedbackAdmin/admin_feedback.php:37
+Stack trace:
+#0 {main}
+  thrown in /home2/club1409/public_html/ADM/FeedbackAdmin/admin_feedback.php on line 37
